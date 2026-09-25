@@ -1,5 +1,6 @@
 ﻿(PRINC "\nLoading IGEMS2.LSP [2026.June.26] 14:14") ; 
- 
+
+;This lisp version is the new one
 ; Kolla Measuring in advance  New Version 2024-06-26
 ; Ett sätt att sätta nollan på ovansidan även om man inte har höjdsensor.
 (SETQ debug T)
