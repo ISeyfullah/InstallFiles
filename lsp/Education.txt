@@ -1,0 +1,162 @@
+Subject: Education — what is built on each side, and the contract to match it
+
+Joakim —
+
+I sent the education design as a review request on 2026-09-02 and never got a
+reply from you or your AI, and I hear you have since implemented some or all of
+it. So this letter is a reconciliation rather than a new proposal: what is
+actually deployed on your side, what is built on mine, and the field-level
+contract I need before I can write the client half.
+
+Nothing is wrong — I would rather build against what is deployed than against
+what I proposed three weeks ago.
+
+
+OUR SIDE — WHERE WE STAND
+--------------------------
+NOTHING of education is built. Honest starting point.
+
+What already exists and that education rides on, all shipped and tested:
+
+  - floating checkout sends activationId, activationName and full MachineInfo
+    on every call (W6, closed 2026-09-01), so your portal already has what it
+    needs to list and release sessions
+  - portal release -> 410 seat_released -> immediate seat-lost with no
+    auto-claim (built 2026-09-02)
+  - temp/redeem, live both sides since 2026-09-01
+  - node-locked startup pulls the whole licence from activations every start
+  - the seat-lost modal
+
+What is ours to build, and I can start the first half today because it is
+server-independent:
+
+  A. LicenseInfo gains licenseType / seats / seatsInUse, and IsSelectable
+     becomes seat-aware. Today it is seats-of-one arithmetic
+     (!IsLocked && !InUse && expiry > today), so a 20-seat row with one seat
+     taken reads as UNSELECTABLE and nobody can take seat 2. Plus the
+     multi-seat row display ("20 seats - 14 in use"). Also the deletion of the
+     old customer-level education rule that force-disables the floating
+     checkbox.
+
+  B. The enrollment code mode in the sign-in dialog. BLOCKED on the contract
+     below.
+
+
+THE CONTRACT I NEED — in the order that blocks me
+--------------------------------------------------
+1. THE ENROLLMENT REDEEM ENDPOINT. Route, method, and whether it takes a
+   bearer (I assume none, like temp/redeem — a student has no login to offer).
+   Request fields you expect, and the exact response body.
+
+   The response is the part I cannot guess. Our client wants a floating
+   checkout shape, because then the enrolled seat IS an ordinary floating seat
+   and no new code path exists anywhere:
+
+     licenseId, customerId, companyName, education, flac, module,
+     registrationDate, expireDate, validationPeriod,
+     resellerId, resellerName, resellerLink,
+     leaseExpiresAt, heartbeatInterval
+
+   THE ONE THAT IS LOAD-BEARING: flac must be the school's REAL flac. Our
+   licence file needs licenseType Local + floating + licenseId > 0 +
+   activationId + email slot + FLAC, all six, before it will resume a seat at
+   startup. Temp deliberately stores FLAC empty; if enrollment copied that,
+   every enrolled machine would look like it lost its seat at every launch.
+
+2. WHAT IS THE CODE CALLED ON THE WIRE. I have heard it referred to as an
+   "activation id". If that is the field name, please rename it — activationId
+   already means something specific and different in this protocol: a
+   CLIENT-MINTED GUID that is the seat identity, sent on every activation,
+   checkout and heartbeat. Two different things under one name in the same
+   payloads will cost somebody a bad afternoon. enrollmentCode, or anything
+   else you like.
+
+3. auth/silent WITH A CODE IN PLACE OF THE EMAIL. Deployed? The design stores
+   the code in the licence file's email slot and re-sends it on every silent
+   re-auth, with the server telling them apart by shape (@ = account,
+   otherwise = code). That is not a preference: our slot map is full, so the
+   email slot is the only place a code can live. Confirm a revoked code
+   answers 401, like a dead account.
+
+4. GET /licenses ON AN EDUCATION ROW. Exact field names and types for
+   licenseType, seats and seatsInUse, and the literal value of licenseType for
+   an education row. Also: what do inUse and boundMachineName say on a
+   multi-seat row? They are singular by construction. We read seatsInUse and
+   fall back to inUse, so we are safe either way — but decide it deliberately
+   rather than letting it fall out of the implementation.
+
+5. ERROR CODES WHEN A ROW IS FULL. 409 license_in_use loses its meaning at
+   seats > 1 — there is no single other machine to name. Proposal unchanged:
+   a full education row answers pool_full, which floating already uses and
+   both sides already handle, and license_in_use stays the seats = 1 case
+   where naming the holder actually helps.
+
+6. DOES THE LOCK ORDERING COMPOSE WITH SEAT COUNTING. A locked 20-seat row
+   must refuse all twenty, licence state before seat state. One look while the
+   code is open.
+
+
+THE TWO THAT ARE YOURS AND ARE BLOCKERS
+----------------------------------------
+Restating them because they decide whether a class can start, not whether a
+message reads well:
+
+  - THE EXPIRED-SEAT REAPER. Cosmetic at one seat. At thirty: if Monday's
+    sessions never reap, period one on Tuesday has no free seats and the
+    teacher has thirty students watching. Is it built?
+
+  - RATE LIMITING. A class is ~30 machines behind ONE NAT address. The opening
+    burst is ~90 requests in the first minute, and the sustained load is 30
+    machines heartbeating all day from one IP. Against a documented
+    60/IP/5min that is a hard fail every morning at 08:15. What is deployed
+    now?
+
+
+THREE DECISIONS STILL OPEN
+---------------------------
+  - Does seatsInUse count node-locked and floating together? Proposal: yes,
+    one number, portal shows the split. Consequence to accept: a school with
+    all twenty seats node-locked cannot start any floating session and the
+    client cannot explain why — only the portal shows the split.
+  - Does reissuing a code revoke the old one? A teacher who loses the code
+    mid-term hits this first.
+  - Revoking a code does not stop a RUNNING machine — it bites at the next
+    launch, and a machine that never closes IGEMS keeps its seat indefinitely.
+    The remedy already exists on your side: release the sessions. So revoke
+    should offer to release that code's live sessions in the same action,
+    ideally from one button.
+
+
+TEST FIXTURES
+-------------
+Same arrangement that made phase 6 painless. On mothership-eight:
+
+  - one education licence with 3 seats (small enough that I can fill it and
+    see the full-row refusal)
+  - two live enrollment codes on it, so I can test that two codes on one row
+    behave
+  - one REVOKED code, so I can test the 401 path and the fallback into code
+    mode rather than an impossible email prompt
+
+Plus the two phase-6 fixture codes still waiting (window-closed 403 and the
+validationPeriod-2 clamp) whenever you get to them.
+
+
+WHAT NOT TO ADD
+---------------
+Unchanged from the design letter, listed again in case it helped: no pool
+fallback (a full 2D row never borrows a 3D seat), no per-user identity or
+reservations, no node-locked/floating conversion, no bans beyond code
+rotation, no LAN licence service, no lesson-time reservations, no offline
+floating borrow.
+
+
+WHAT WOULD HELP MOST
+--------------------
+A written record from your AI of what it changed: routes deployed and on which
+host, request and response field names, error codes, and anything in the
+proposal it REJECTED or altered. The rejections matter more than the
+acceptances — if something in my design did not survive contact with your
+model, I would rather adapt the client than discover it from a 400.
+
+/ Patrik

@@ -1,0 +1,417 @@
+Cutting angle too Large
+Warning! Negative underlay. Continue ?
+Cancel
+OK
+Underlay
+Tool diameter
+g/min
+Abrasive
+bar
+Pressure
+Factor
+Info
+General machine speed factor
+Options
+Machine
+Tool diameter must be between 0 and
+Print cost report
+Print job report
+Copy to backup folder
+Send to IGEMS CNC
+End with parking position
+Use rotation axis
+LAG
+VOC
+TAC
+Stroke between cuttings
+Stroke between piercings
+Stroke between markings
+Stroke between drillings
+Lift Z-axis between parts
+Lift Z-axis between cuttings
+Lift Z-axis between piercings
+Inkjet marking
+Lift Z-axis between markings
+Lift Z-axis between drillings
+View output file
+Add comments
+Stop after first part
+Stop after first cut
+Skip tool init
+Stop pump automatically
+End with start pressure
+Service position before 5X-cutting
+Skip abrasive flow changes
+Skip pressure changes
+Start pump automatically
+Skip pressure init
+Warning!
+Sure to use heigt sensor. Toolpath differ
+Increased piercing height
+Renest sheet
+Old Auto
+Nest
+Auto (Deprecated)
+Nest Level 2
+Re-nest
+Auto
+Nest Level 1
+Report
+Single
+Glide
+NEST
+Cost estimate
+Strategy
+Cutting parameters
+Process
+Order
+Organizer
+Cut (Deprecated)
+Define (Deprecated)
+Uniform
+Tilt Cutoff
+Ruled
+3D-5X
+Bevel
+HeightMap
+Poly lead
+Disconnect
+Chain
+Micro joints
+Edit
+Gridcut
+Cutoff
+Common
+Bridges
+Loops
+Quick bevel (Deprecated)
+Manual
+Holes
+Toolpath
+3D-3X
+Marking
+Quick
+Contour
+Tube Define (Deprecated)
+Find part
+Speed optimisation
+Clone
+Split
+Browser
+Inkjet
+Part text
+Properties
+TAC-LAG
+Part
+Tools
+Quality
+Import from R7-R9
+History
+Inventory
+From hole
+Unlock
+Lock
+Sheet
+Sheets
+Register
+Create
+Setup
+Select
+CAM
+Config
+Camera
+Insert
+Data ex
+NC reader
+Tile maker
+Inlay
+Cut
+Tile
+Optimize
+Sign maker
+Trace
+Image
+Type
+Dovetail
+Align
+Convex hull
+Pocketing
+Divide
+Vectorize
+Corner cutout
+Poly joint
+Extract solid
+Boundary trim
+CAM tools
+Analyze
+Replace
+Boundary scan
+Curvefit
+EdgeFix
+Clean up
+TOOLS
+Id
+Distance
+Bring to front
+Send to back
+Line weight
+Line type
+Color
+Zoom object
+Zoom window
+Zoom
+Pan
+View
+Extents
+Leader
+Angular dimension
+Positions
+Radius
+Diameter
+Linear
+Rotated dimension
+Text
+Dimension
+Array
+Skew
+Stretch
+Quick move
+Project
+Scale
+Mirror
+Transform
+Copy
+Rotate
+Move
+Save block
+Insert block
+Create block
+Define attributes
+Group
+Explode
+Layer
+Join
+Delete
+Break
+Polyline editor
+Boolean
+Extend
+Lengthen
+Smooth connect
+Chamfer
+Zero fillet
+Modify
+Trim
+Fillet
+Offset
+Boundary poly
+Puzzle
+Unswell
+Swell
+Obround
+Shape
+N-gon
+Parametric
+Hatch
+Solid
+Ellipse
+Spline
+Sketch
+Polyline
+Bounding box
+Rectangle XYC
+Box
+Enclosing
+From 3 points
+From 2 points and radius
+From 2 points
+From center and 1 point
+Start, end, radius
+Start, end, direction
+Start, end, angle
+Start, center, length
+Start, center, angle
+Center, start, end
+Start, on, end
+Arc
+Point
+Draw
+Rectangle
+Circle
+Line
+Reset
+Service center
+Shared folder
+User data folder
+Status
+Purge
+System
+Redo
+Undo
+CAD
+Exit
+Check for updates
+Changelog
+About
+Subscription
+Dimension style
+Point style
+Drawing units
+Translate
+Password
+Preferences
+Dump image
+Limits
+Plot
+Close all
+Close
+Support
+Export
+Save as template
+Save as
+Save
+Recover
+Import
+Samples
+Open
+Templates
+New
+Normals
+Stock
+Measure points
+Simulate
+Zero point
+Toolpaths
+Curves
+Three points
+Z height
+Probe point
+Spiral
+Slice
+Section
+Wrap
+DropCurve
+Design
+Fixture
+Rapids
+User fixture
+Grid
+Measure
+Fix topology
+Rectangular Array
+Polar Array
+Intersect
+Union
+Subtract
+Loft
+Revolve
+Extrude
+Surface
+Sphere
+Cone
+Cylinder
+ZeroFillet
+Axis
+Test
+Print
+Preferenes
+Export STEP
+New
+Open
+Samples
+Import
+Save
+Save as
+Export STEP
+Layer
+Preferenes
+Properties
+Print
+Test
+CAD
+Undo
+Redo
+System
+Sketch
+Modify
+Line
+Arc
+Circle
+Draw
+Rectangle
+Spline
+Text
+Axis
+Extend
+Project
+Zero fillet
+Trim
+Box
+Cylinder
+Cone
+Primitives
+Sphere
+Surface
+Extrude
+Revolve
+Loft
+Solids
+Subtract
+Union
+Intersect
+Move
+Copy
+Delete
+Transform
+Rotate
+Scale
+Mirror
+Polar Array
+Rectangular Array
+Explode
+Fix topology
+Measure
+Info
+Id
+TOOLS
+Grid
+User fixture
+Point
+Rapids
+Fixture
+NC reader
+Design
+Import
+Export
+Drop curve
+Wrap
+Section
+Slice
+Spiral
+Tools
+CAM
+Select
+Probe point
+Setup
+Align
+Z height
+Axis
+Align
+Rotate
+Three points
+Bevel
+Quick
+Bevel
+Curves
+Auto
+Toolpath
+Rapids
+Quality
+Toolpaths
+Zero point
+Simulate
+Create
+Part
+Measure points
+Stock
+Normals
