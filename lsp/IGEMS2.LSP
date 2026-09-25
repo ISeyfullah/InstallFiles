@@ -1,6 +1,6 @@
 ﻿(PRINC "\nLoading IGEMS2.LSP [2026.June.26] 14:14") ; 
  
-; Kolla Measuring in advance  SeyfTest
+; Kolla Measuring in advance  SeyfTest 
 ; Ett sätt att sätta nollan på ovansidan även om man inte har höjdsensor.
 (SETQ debug T)
 (SETQ pp_xmod 0 pp_ymod 0) ; How much X and Y should be changed because of part should be cut with another tool than T1. Change the coordinates in the CNC file.
