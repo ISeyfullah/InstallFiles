@@ -1,0 +1,25 @@
+linpar("A",200,8)
+linpar("B",150,6)
+linpar("C",40,2)
+linpar("D",100,4)
+linpar("E",70,3)
+linpar("F",40,2)
+
+def generate():
+    
+    circle(D,E,F/2)
+    moveto(0,B)
+    lineto(0,C)
+    arcto(C,0,C,C,True)
+    lineto(A-C,0)
+    arcto(A,C,A-C,C,True)
+    lineto(A,B)
+    lineto(0,B)
+    close()
+    
+    dimlin("A",0,C,A,C,False,140)
+    dimlin("B",C,0,C,B,True,140)
+    dimrad("C",C,C,C,225,90)
+    dimlin("D",0,E,D,E,True,0)
+    dimlin("E",D,0,D,E,True,0)
+    dimdia("F",D,E,F,45)

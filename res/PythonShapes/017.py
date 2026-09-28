@@ -1,0 +1,33 @@
+linpar("A",200,8)
+linpar("B",150,6)
+linpar("C",40,2)
+linpar("D",40,2)
+linpar("E",40,2)
+linpar("F",120,4)
+linpar("G",70,2)
+linpar("H",20,0.5)
+
+def generate():
+    
+    rect(D,E,D+F,E+G,H)
+    #rect(D,E,D+F,E+G)
+    
+    moveto(C,0)
+    lineto(A-C,0)
+    arcto(A,C,A,0,False)
+    lineto(A,B-C)
+    arcto(A-C,B,A,B,False)
+    lineto(C,B)
+    arcto(0,B-C,0,B,False)
+    lineto(0,C)
+    arcto(C,0,0,0,False)
+    close()
+    
+    dimlin("A",0,E,A,E,False,160)
+    dimlin("B",D,0,D,B,True,160)
+    dimrad("C",0,0,C,30,20)
+    dimlin("D",0,E+G/2,D,E+G/2,False,210)
+    dimlin("E",D+F/2,0,D+F/2,E,True,255)
+    dimlin("F",D,E,D+F,E,True)
+    dimlin("G",D+F,E,D+F,E+G,True)
+    dimrad("H",D+F-H,E+G-H,H,30,10)
