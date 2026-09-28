@@ -1,0 +1,884 @@
+<Drawing>
+  <Entities>
+    <Entity FID="5">
+      <Class>EntityLine</Class>
+      <Guid>9ee58c37-2fa3-4599-8566-9a110bc2363a</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129548</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>182.26119500129548</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="6">
+      <Class>EntityLine</Class>
+      <Guid>16d59a04-011e-4cd1-a0c7-b59c40964b7a</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129548</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>750.00000000000011</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="7">
+      <Class>EntityArc</Class>
+      <Guid>9c390e03-820a-404c-b467-da8847891775</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129184</X1>
+      <Y1>-470.16886282271895</Y1>
+      <X2>504.25955486052612</X2>
+      <Y2>-0.00021705310052197875</Y2>
+      <Bulge>0.30960499779620948</Bulge>
+    </Entity>
+    <Entity FID="8">
+      <Class>EntityLine</Class>
+      <Guid>98b4c4df-9394-40d6-b748-6d7b4057aa25</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>262.22636513495343</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>182.26119500129548</X2>
+      <Y2>-470.16886282271753</Y2>
+    </Entity>
+    <Entity FID="9">
+      <Class>EntityLine</Class>
+      <Guid>b31e214c-1a95-49d4-9b30-1236417eb84a</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-750.00000000000011</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>-715.909090909091</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="10">
+      <Class>EntityLine</Class>
+      <Guid>fc11c47a-3c9e-4b14-9253-780a0aefe785</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>715.909090909091</X1>
+      <Y1>470.1684287165167</Y1>
+      <X2>750.00000000000011</X2>
+      <Y2>504.25933780742582</Y2>
+    </Entity>
+    <Entity FID="11">
+      <Class>EntityLine</Class>
+      <Guid>d4d2efb7-8011-4ad9-9e8e-7673b3f1ac18</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>0</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="12">
+      <Class>EntityLine</Class>
+      <Guid>e9321697-161a-4b3b-9f9e-5eed6cc340f2</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129548</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>0</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="13">
+      <Class>EntityLine</Class>
+      <Guid>2b712949-8768-4d9d-9797-db6991fc5739</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-750.00000000000011</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="14">
+      <Class>EntityArc</Class>
+      <Guid>d0cb6dda-4b47-4161-9d23-0487764ef1ba</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>2.4352967868162575E-14</X1>
+      <Y1>397.72706554917238</Y1>
+      <X2>-397.72728260227279</X2>
+      <Y2>-0.00021705270456231585</Y2>
+      <Bulge>0.41421356237280355</Bulge>
+    </Entity>
+    <Entity FID="15">
+      <Class>EntityLine</Class>
+      <Guid>20421ead-38e7-4c8f-8fe2-e7e4cb663c24</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-262.22636513495343</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>-470.16886282271753</Y2>
+    </Entity>
+    <Entity FID="16">
+      <Class>EntityLine</Class>
+      <Guid>b4fa4534-015a-4dc1-8c8f-93f1cbf6937c</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-182.26119500129548</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>-470.16886282271753</Y2>
+    </Entity>
+    <Entity FID="17">
+      <Class>EntityArc</Class>
+      <Guid>f5c5458c-cec1-4827-93a2-3a12b2d8eb67</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-504.25955486052624</X1>
+      <Y1>-0.00021705310036902029</Y1>
+      <X2>-182.26119500129204</X2>
+      <Y2>-470.168862822719</Y2>
+      <Bulge>0.30960499779620948</Bulge>
+    </Entity>
+    <Entity FID="18">
+      <Class>EntityLine</Class>
+      <Guid>35f940f1-abc3-4dc5-a478-b43d82514a25</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-715.909090909091</X1>
+      <Y1>470.1684287165167</Y1>
+      <X2>-262.22636513495343</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="19">
+      <Class>EntityLine</Class>
+      <Guid>99833790-78f7-4f69-a60a-f59cbc2ee16f</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>715.909090909091</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>715.909090909091</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="20">
+      <Class>EntityLine</Class>
+      <Guid>192fbbe4-55d1-493f-8f73-52336caf74dd</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>750.00000000000011</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>750.00000000000011</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="21">
+      <Class>EntityArc</Class>
+      <Guid>62bdcc14-44fe-4044-9409-b005a838624a</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>504.25955486052624</X1>
+      <Y1>-0.00021705310043077224</Y1>
+      <X2>182.26119500129536</X2>
+      <Y2>470.16842871651681</Y2>
+      <Bulge>0.30960499779620754</Bulge>
+    </Entity>
+    <Entity FID="22">
+      <Class>EntityArc</Class>
+      <Guid>980f1451-328f-426f-854a-165328990316</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>538.35046395143536</X1>
+      <Y1>-0.00021705310043077224</Y1>
+      <X2>262.22636513495371</X2>
+      <Y2>470.16842871651664</Y2>
+      <Bulge>0.27192993329181975</Bulge>
+    </Entity>
+    <Entity FID="23">
+      <Class>EntityArc</Class>
+      <Guid>0e650762-a0c5-465c-a023-bf8a14a3f598</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-262.22636513495212</X1>
+      <Y1>470.16842871651755</Y1>
+      <X2>-538.35046395143536</X2>
+      <Y2>-0.00021705310036484551</Y2>
+      <Bulge>0.27192993329182064</Bulge>
+    </Entity>
+    <Entity FID="24">
+      <Class>EntityArc</Class>
+      <Guid>141d5339-045f-4d9c-9d16-ed9bca73304f</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-182.26119500129207</X1>
+      <Y1>470.16842871651812</Y1>
+      <X2>-504.25955486052624</X2>
+      <Y2>-0.00021705310036902029</Y2>
+      <Bulge>0.30960499779620942</Bulge>
+    </Entity>
+    <Entity FID="25">
+      <Class>EntityLine</Class>
+      <Guid>2672811e-32fa-4164-ac74-a1fd8075a241</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-715.909090909091</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>-715.909090909091</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="26">
+      <Class>EntityLine</Class>
+      <Guid>71e40b74-5a9b-4df1-b321-14d5defbd8ef</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-750.00000000000011</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>-750.00000000000011</X2>
+      <Y2>504.25933780742582</Y2>
+    </Entity>
+    <Entity FID="27">
+      <Class>EntityLine</Class>
+      <Guid>6028873b-8024-4e24-ae69-433f304e6c5d</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129548</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>-6.1751945485784432E-14</X2>
+      <Y2>504.25933780742582</Y2>
+    </Entity>
+    <Entity FID="28">
+      <Class>EntityLine</Class>
+      <Guid>2d034e82-4d5f-46e9-a076-a47a9103d8e8</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-182.26119500129548</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="29">
+      <Class>EntityLine</Class>
+      <Guid>f7f3c4ef-416c-4244-9314-749c59c77b4d</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-182.26119500129548</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>-750.00000000000011</X2>
+      <Y2>504.25933780742582</Y2>
+    </Entity>
+    <Entity FID="30">
+      <Class>EntityLine</Class>
+      <Guid>b49d4ff1-f722-4d85-b994-3dff1ce9a1f7</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>262.22636513495343</X1>
+      <Y1>470.1684287165167</Y1>
+      <X2>715.909090909091</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="31">
+      <Class>EntityLine</Class>
+      <Guid>cd88152c-c967-4c7e-a819-06c40bf3fb3b</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-262.22636513495343</X1>
+      <Y1>470.1684287165167</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="32">
+      <Class>EntityLine</Class>
+      <Guid>edbe6f91-7ab6-44bd-addc-cab3cfd9efbd</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>750.00000000000011</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>182.26119500129548</X2>
+      <Y2>504.25933780742582</Y2>
+    </Entity>
+    <Entity FID="33">
+      <Class>EntityLine</Class>
+      <Guid>b5bbf238-45b1-4f5d-91c9-0dcb24bf980d</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-6.1751945485784432E-14</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>-182.26119500129548</X2>
+      <Y2>504.25933780742582</Y2>
+    </Entity>
+    <Entity FID="34">
+      <Class>EntityLine</Class>
+      <Guid>f3dee8f7-2861-4d2f-a6d3-a6d435f6bfcd</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129548</X1>
+      <Y1>470.1684287165167</Y1>
+      <X2>262.22636513495343</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="35">
+      <Class>EntityLine</Class>
+      <Guid>f9119e59-2057-4c87-9deb-3d50ac8a5bfe</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>182.26119500129548</X1>
+      <Y1>504.25933780742582</Y1>
+      <X2>182.26119500129548</X2>
+      <Y2>470.1684287165167</Y2>
+    </Entity>
+    <Entity FID="36">
+      <Class>EntityLine</Class>
+      <Guid>d79b28ce-29b9-4d16-ae0f-bc8bc2e99dcf</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-715.909090909091</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>-750.00000000000011</X2>
+      <Y2>-504.25977191362665</Y2>
+    </Entity>
+    <Entity FID="37">
+      <Class>EntityLine</Class>
+      <Guid>ce9ea8d1-ff88-4e28-b9a2-3578109985d6</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>750.00000000000011</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>715.909090909091</X2>
+      <Y2>-470.16886282271753</Y2>
+    </Entity>
+    <Entity FID="38">
+      <Class>EntityArc</Class>
+      <Guid>547bd98e-103f-495f-b345-3db1be781398</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-538.35046395143524</X1>
+      <Y1>-0.00021705310039714289</Y1>
+      <X2>-262.22636513541988</X2>
+      <Y2>-470.16886282245736</Y2>
+      <Bulge>0.27192993329155357</Bulge>
+    </Entity>
+    <Entity FID="39">
+      <Class>EntityLine</Class>
+      <Guid>2020d1c0-41b1-4dea-99f3-a55066809835</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>715.909090909091</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>262.22636513495343</X2>
+      <Y2>-470.16886282271753</Y2>
+    </Entity>
+    <Entity FID="40">
+      <Class>EntityLine</Class>
+      <Guid>891ecd57-4791-48f6-9c43-efbc4d74ca65</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>0</X1>
+      <Y1>-337.05723620756868</Y1>
+      <X2>0</X2>
+      <Y2>-397.72749965537321</Y2>
+    </Entity>
+    <Entity FID="41">
+      <Class>EntityLine</Class>
+      <Guid>59ccd6c5-12bb-4bcd-ba1f-94bf370c14bd</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-262.22636513495343</X1>
+      <Y1>-470.16886282271753</Y1>
+      <X2>-715.909090909091</X2>
+      <Y2>-470.16886282271753</Y2>
+    </Entity>
+    <Entity FID="42">
+      <Class>EntityLine</Class>
+      <Guid>61432c9d-596f-496c-94e8-b94b29b7833e</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>0</X1>
+      <Y1>397.72706554917238</Y1>
+      <X2>0</X2>
+      <Y2>504.26295535909964</Y2>
+    </Entity>
+    <Entity FID="43">
+      <Class>EntityArc</Class>
+      <Guid>f9889490-b19b-4f7d-a10e-c60a5f01b395</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>397.72728260227274</X1>
+      <Y1>-0.00021705310043077224</Y1>
+      <X2>2.4352967868162572E-14</X2>
+      <Y2>397.72706554917232</Y2>
+      <Bulge>0.41421356237309503</Bulge>
+    </Entity>
+    <Entity FID="44">
+      <Class>EntityArc</Class>
+      <Guid>bcc57afe-557b-420c-9009-ca905668004c</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>262.22636513541971</X1>
+      <Y1>-470.16886282245741</Y1>
+      <X2>538.35046395143524</X2>
+      <Y2>-0.00021705310043077224</Y2>
+      <Bulge>0.27192993329155363</Bulge>
+    </Entity>
+    <Entity FID="45">
+      <Class>EntityLine</Class>
+      <Guid>88fb21c7-d408-4326-8a2c-69ad1730ab78</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>0</X1>
+      <Y1>397.72706554917238</Y1>
+      <X2>0</X2>
+      <Y2>337.05680210136785</Y2>
+    </Entity>
+    <Entity FID="46">
+      <Class>EntityLine</Class>
+      <Guid>071a672d-9a18-4711-a418-915e6cb1450f</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>0</X1>
+      <Y1>-504.25977191362665</Y1>
+      <X2>0</X2>
+      <Y2>-397.72749965537321</Y2>
+    </Entity>
+    <Entity FID="47">
+      <Class>EntityLine</Class>
+      <Guid>d154c80f-673a-4cb4-8e02-9d106ef47dff</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-397.72728260227279</X1>
+      <Y1>-0.00021705310043077224</Y1>
+      <X2>-337.05701915446826</X2>
+      <Y2>-0.00021705310043077224</Y2>
+    </Entity>
+    <Entity FID="48">
+      <Class>EntityArc</Class>
+      <Guid>c755fc1a-3e0f-4690-a092-c3ef42c6fa51</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-397.72728260227279</X1>
+      <Y1>-0.00021705349602519036</Y1>
+      <X2>-7.3058903604487724E-14</X2>
+      <Y2>-397.72749965537321</Y2>
+      <Bulge>0.41421356237280366</Bulge>
+    </Entity>
+    <Entity FID="49">
+      <Class>EntityArc</Class>
+      <Guid>65fecaca-0825-4f4c-b665-19886efd235c</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-7.3058903604487724E-14</X1>
+      <Y1>-397.72749965537321</Y1>
+      <X2>397.72728260227279</X2>
+      <Y2>-0.00021705310043077224</Y2>
+      <Bulge>0.41421356237309509</Bulge>
+    </Entity>
+    <Entity FID="50">
+      <Class>EntityLine</Class>
+      <Guid>93baf221-0915-4e98-8d20-028680f6b4d6</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>337.05701915446826</X1>
+      <Y1>-0.00021705310043077224</Y1>
+      <X2>397.72728260227279</X2>
+      <Y2>-0.00021705310043077224</Y2>
+    </Entity>
+    <Entity FID="51">
+      <Class>EntityLine</Class>
+      <Guid>a13d3604-6728-4083-8ab8-6247188278fe</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>281.23565859096544</X1>
+      <Y1>281.23544153786509</Y1>
+      <X2>356.56535071998547</X2>
+      <Y2>356.56513366688512</Y2>
+    </Entity>
+    <Entity FID="52">
+      <Class>EntityLine</Class>
+      <Guid>15ca711c-2b78-4a4a-8e8d-082c28cb8f4a</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-356.56535071998809</X1>
+      <Y1>-356.56556777308833</Y1>
+      <X2>-281.23565859096556</X2>
+      <Y2>-281.2358756440658</Y2>
+    </Entity>
+    <Entity FID="53">
+      <Class>EntityLine</Class>
+      <Guid>2398e5d9-98f0-4ac1-bc08-b8ca68551526</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>356.56535071998803</X1>
+      <Y1>-356.56556777308873</Y1>
+      <X2>281.2356585909655</X2>
+      <Y2>-281.2358756440662</Y2>
+    </Entity>
+    <Entity FID="54">
+      <Class>EntityLine</Class>
+      <Guid>fe7bf96c-c32c-45f5-9543-3aec4cb0d4fb</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-281.23565859096539</X1>
+      <Y1>281.2354415378648</Y1>
+      <X2>-356.56535071998542</X2>
+      <Y2>356.56513366688483</Y2>
+    </Entity>
+    <Entity FID="55">
+      <Class>EntityLine</Class>
+      <Guid>b21f793c-3a19-4f77-9c78-ade7efeac5fb</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-421.48970867333514</X1>
+      <Y1>-276.8108457337982</Y1>
+      <X2>-449.98488978122862</X2>
+      <Y2>-295.52487085596209</Y2>
+    </Entity>
+    <Entity FID="56">
+      <Class>EntityLine</Class>
+      <Guid>5399f221-32df-409a-ac5f-e88b77660132</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>449.98488978122555</X1>
+      <Y1>295.52443674975945</Y1>
+      <X2>421.48970867333213</X2>
+      <Y2>276.81041162759556</Y2>
+    </Entity>
+    <Entity FID="57">
+      <Class>EntityLine</Class>
+      <Guid>92a73c19-09e3-4259-a42f-b4513642c120</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>-421.48970867333503</X1>
+      <Y1>276.8104116275976</Y1>
+      <X2>-449.98488978122845</X2>
+      <Y2>295.52443674976149</Y2>
+    </Entity>
+    <Entity FID="58">
+      <Class>EntityLine</Class>
+      <Guid>f7104efd-dfa7-4afe-8c39-ac769165c573</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>7</Color>
+      <X1>449.98488978122538</X1>
+      <Y1>-295.5248708559605</Y1>
+      <X2>421.489708673332</X2>
+      <Y2>-276.81084573379661</Y2>
+    </Entity>
+    <Entity FID="59">
+      <Class>EntityLine</Class>
+      <Guid>2bd9fe82-e4ae-4d0f-95f9-45ad68b13bdc</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>-715.909090909091</X1>
+      <Y1>249.99978294689959</Y1>
+      <X2>-750.00000000000011</X2>
+      <Y2>249.99978294689959</Y2>
+    </Entity>
+    <Entity FID="60">
+      <Class>EntityLine</Class>
+      <Guid>7e9ba92f-45cc-4244-aafb-07e2664dcaea</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>-715.909090909091</X1>
+      <Y1>-250.00021705310041</Y1>
+      <X2>-750.00000000000011</X2>
+      <Y2>-250.00021705310041</Y2>
+    </Entity>
+    <Entity FID="61">
+      <Class>EntityLine</Class>
+      <Guid>9f726a50-9fa0-4519-ad83-0e5273217f33</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>715.909090909091</X1>
+      <Y1>249.99978294689959</Y1>
+      <X2>750.00000000000011</X2>
+      <Y2>249.99978294689959</Y2>
+    </Entity>
+    <Entity FID="62">
+      <Class>EntityLine</Class>
+      <Guid>2568d80d-ce8d-4e87-a645-608167d7f505</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>715.909090909091</X1>
+      <Y1>-250.00021705310041</Y1>
+      <X2>750.00000000000011</X2>
+      <Y2>-250.00021705310041</Y2>
+    </Entity>
+    <Entity FID="63">
+      <Class>EntityLine</Class>
+      <Guid>098405d8-5430-4e40-b44e-eca50ed9b192</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>-715.909090909091</X1>
+      <Y1>-0.00021705310041397752</Y1>
+      <X2>-538.35046395143536</X2>
+      <Y2>-0.00021705310041397752</Y2>
+    </Entity>
+    <Entity FID="64">
+      <Class>EntityLine</Class>
+      <Guid>4a45fbe3-0589-4e9f-b272-779a6b5ba13d</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>715.909090909091</X1>
+      <Y1>-0.00021705310041397752</Y1>
+      <X2>538.35046395143547</X2>
+      <Y2>-0.00021705310041397752</Y2>
+    </Entity>
+    <Entity FID="65">
+      <Class>EntityCircle</Class>
+      <Guid>f57589fa-d613-4737-acba-c5713f9760d4</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X>0</X>
+      <Y>-0.00021705310041397752</Y>
+      <R>337.05701915446826</R>
+    </Entity>
+    <Entity FID="66">
+      <Class>EntityArc</Class>
+      <Guid>27e07cbc-b0d0-49af-9289-ee3fb222d233</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>0</X1>
+      <Y1>337.05680210136785</Y1>
+      <X2>8.6401996668428183E-12</X2>
+      <Y2>-337.05723620756879</Y2>
+      <Bulge>0.36673850407883085</Bulge>
+    </Entity>
+    <Entity FID="67">
+      <Class>EntityArc</Class>
+      <Guid>5024b747-2d18-40a5-8f3c-c9c3b7678f56</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>4.127621672569925E-14</X1>
+      <Y1>337.05680210136785</Y1>
+      <X2>-8.6814758835685175E-12</X2>
+      <Y2>-337.05723620756879</Y2>
+      <Bulge>-0.36673850407883085</Bulge>
+    </Entity>
+    <Entity FID="68">
+      <Class>EntityArc</Class>
+      <Guid>2946f602-9c45-4a33-a6cb-0a0be267a869</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>337.05701915446826</X1>
+      <Y1>-0.00021705310044754298</Y1>
+      <X2>-337.05701915446838</X2>
+      <Y2>-0.0002170531090206117</Y2>
+      <Bulge>0.36673850407883085</Bulge>
+    </Entity>
+    <Entity FID="69">
+      <Class>EntityArc</Class>
+      <Guid>a6345848-ac51-4ad5-b5cd-36eab0555ef0</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <X1>337.05701915446826</X1>
+      <Y1>-0.00021705310048881918</Y1>
+      <X2>-337.05701915446838</X2>
+      <Y2>-0.00021705309169893613</Y2>
+      <Bulge>-0.36673850407883085</Bulge>
+    </Entity>
+  </Entities>
+  <Layers>
+    <Layer FID="4">
+      <Name>0</Name>
+      <Plot>True</Plot>
+      <Locked>False</Locked>
+      <Color>7</Color>
+      <Visible>True</Visible>
+      <Linetype>3</Linetype>
+      <Lineweight>2</Lineweight>
+    </Layer>
+  </Layers>
+  <Linetypes>
+    <Linetype FID="1">
+      <Name>BYLAYER</Name>
+      <Description>By layer</Description>
+      <ReadOnly>True</ReadOnly>
+    </Linetype>
+    <Linetype FID="2">
+      <Name>BYBLOCK</Name>
+      <Description>By block</Description>
+      <ReadOnly>True</ReadOnly>
+    </Linetype>
+    <Linetype FID="3">
+      <Name>CONTINUOUS</Name>
+      <Description>Continuous</Description>
+      <ReadOnly>True</ReadOnly>
+    </Linetype>
+  </Linetypes>
+  <Blocks />
+  <Properties>
+    <ViewMinX>-1378.274781711365</ViewMinX>
+    <ViewMinY>-882.03784915244887</ViewMinY>
+    <ViewMaxX>1914.3105218031442</ViewMaxX>
+    <ViewMaxY>728.24215084761636</ViewMaxY>
+    <PreviewImage>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</PreviewImage>
+    <InsertX>0</InsertX>
+    <InsertY>0</InsertY>
+    <VerMajor>10</VerMajor>
+    <VerMinor>0</VerMinor>
+    <VerBuild>4584</VerBuild>
+    <VerRevision>22219</VerRevision>
+    <VerIndex>938</VerIndex>
+  </Properties>
+  <CAMData>
+    <PartDefs />
+    <PartIDs />
+    <PartInsts />
+  </CAMData>
+  <COREVariables>
+    <AngularPrecision>3</AngularPrecision>
+    <AngularUnits>501</AngularUnits>
+    <LinearPrecision>4</LinearPrecision>
+    <LastPoint>7.0710678118654755,7.0708507587650606</LastPoint>
+    <LastAngle>3.1415926535897931</LastAngle>
+    <LinearUnits>101</LinearUnits>
+    <UnitSystem>0</UnitSystem>
+    <CurrentLineType>1</CurrentLineType>
+    <CurrentLayer>4</CurrentLayer>
+    <CurrentColor>256</CurrentColor>
+    <CurrentLineWeight>1</CurrentLineWeight>
+    <GlobalLineTypeScale>1</GlobalLineTypeScale>
+    <CurrentLineTypeScale>1</CurrentLineTypeScale>
+    <LineWeightScale>7</LineWeightScale>
+    <CommandInsertBlockName>
+    </CommandInsertBlockName>
+    <CommandInsertFlags>7</CommandInsertFlags>
+    <CommandInsertPos>0,0</CommandInsertPos>
+    <CommandInsertAng>0</CommandInsertAng>
+    <CommandInsertScale>1,1</CommandInsertScale>
+    <Limit1>0,0</Limit1>
+    <Limit2>210,297</Limit2>
+    <GridMode>0</GridMode>
+    <GridDX>10</GridDX>
+    <GridDY>10</GridDY>
+  </COREVariables>
+  <CADVariables>
+    <DimExactScale>False</DimExactScale>
+    <PlotSize>-1</PlotSize>
+    <PlotPortrait>True</PlotPortrait>
+    <HatchStyleMode>1</HatchStyleMode>
+    <HatchAngle>0.78539816339744828</HatchAngle>
+    <TextHeight>1</TextHeight>
+    <NGonEdges>6</NGonEdges>
+    <CircleDefaultRadius>521.33906959625017</CircleDefaultRadius>
+    <SwellRadius>1</SwellRadius>
+    <ObroundRadius>1</ObroundRadius>
+    <ChamferDist1>1</ChamferDist1>
+    <ChamferDist2>1</ChamferDist2>
+    <HatchSpacing>1</HatchSpacing>
+    <DefaultOffsetDistance>250</DefaultOffsetDistance>
+    <PointStyle>2</PointStyle>
+    <PointSize>6</PointSize>
+    <FilletRadius>10</FilletRadius>
+    <CurrentFont>ISO-CP</CurrentFont>
+    <CurrentFontType>0</CurrentFontType>
+    <CurrentDimstyle>ISO</CurrentDimstyle>
+    <DimensionExists>0</DimensionExists>
+  </CADVariables>
+  <CAMVariables>
+    <Machine2>IGEMS-RD</Machine2>
+    <Material2>Aluminium</Material2>
+    <MaterialThickness2>5</MaterialThickness2>
+    <MaterialQuality>Standard</MaterialQuality>
+  </CAMVariables>
+  <CAMToolsVariables>
+    <VectorizeTolerance>0.08</VectorizeTolerance>
+    <CurvefitTolerance>0.1</CurvefitTolerance>
+    <BoundaryScanTolerance>1E-06</BoundaryScanTolerance>
+    <PolyJointWidth>1</PolyJointWidth>
+    <CleanUpTolerance>0.001</CleanUpTolerance>
+  </CAMToolsVariables>
+</Drawing>

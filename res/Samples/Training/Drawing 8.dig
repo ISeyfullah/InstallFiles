@@ -1,0 +1,240 @@
+<Drawing>
+  <Entities>
+    <Entity FID="5">
+      <Class>EntityPoly</Class>
+      <Guid>09e29439-9f79-410a-a4af-224140718213</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <Closed>True</Closed>
+      <Contour>3.361248,68.20898,21.057585,83.000535,118.942415,83.000535,136.638752,68.20898,136.638752,16.79102,118.942415,1.999465,21.057585,1.999465,3.361248,16.79102</Contour>
+      <Bulges>-0.31733247813097409,-0.040853416887265286,-0.31733247813098048,-0.13074218424045878,-0.31733247813098175,-0.040853416887265459,-0.31733247813098142,-0.13074218424045955</Bulges>
+    </Entity>
+    <Entity FID="6">
+      <Class>EntityDimLinear</Class>
+      <Guid>7e2b0774-3cd2-4838-955b-0aceb763c9f3</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <TXT>
+      </TXT>
+      <TXTX>-12</TXTX>
+      <TXTY>43.173120011172529</TXTY>
+      <ORG1X>70</ORG1X>
+      <ORG1Y>84.999999883464625</ORG1Y>
+      <ORG2X>70</ORG2X>
+      <ORG2Y>1.1653537512756884E-07</ORG2Y>
+      <DIMX>-12</DIMX>
+      <DIMY>1.1653537512756884E-07</DIMY>
+      <ALG>False</ALG>
+      <DIMANG>1.5707963267948966</DIMANG>
+    </Entity>
+    <Entity FID="7">
+      <Class>EntityDimLinear</Class>
+      <Guid>d479dddf-2893-411e-81de-755418e11a19</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <TXT>
+      </TXT>
+      <TXTX>68.173768302937034</TXTX>
+      <TXTY>-9.5</TXTY>
+      <ORG1X>-1.9979430021521694E-07</ORG1X>
+      <ORG1Y>42.5</ORG1Y>
+      <ORG2X>140.00000019979427</ORG2X>
+      <ORG2Y>42.5</ORG2Y>
+      <DIMX>140.00000019979427</DIMX>
+      <DIMY>-9.5</DIMY>
+      <ALG>False</ALG>
+      <DIMANG>0</DIMANG>
+    </Entity>
+    <Entity FID="8">
+      <Class>EntityDimCircular</Class>
+      <Guid>8c491f4a-ffe2-435f-bea2-c43320e3c09e</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <TXT>
+      </TXT>
+      <TXTX>-12.417050281133982</TXTX>
+      <TXTY>96.659403197013376</TXTY>
+      <CX>22.688998470462238</CX>
+      <CY>63.067183582421777</CY>
+      <RX>8.2387357697902974</RX>
+      <RY>76.894327775270952</RY>
+      <DIA>False</DIA>
+    </Entity>
+    <Entity FID="9">
+      <Class>EntityDimCircular</Class>
+      <Guid>6d304f03-b066-4b9b-93f5-32e089f43341</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <TXT>
+      </TXT>
+      <TXTX>65.644011665768915</TXTX>
+      <TXTY>67.747898772234549</TXTY>
+      <CX>70</CX>
+      <CY>-514.99999653932275</CY>
+      <RX>65.515179046168143</RX>
+      <RY>84.983238300082462</RY>
+      <DIA>False</DIA>
+    </Entity>
+    <Entity FID="10">
+      <Class>EntityDimCircular</Class>
+      <Guid>33f185d4-f2e4-41bf-a475-4846e10fd807</Guid>
+      <Linetype>1</Linetype>
+      <Lineweight>1</Lineweight>
+      <Color>256</Color>
+      <TXT>
+      </TXT>
+      <TXTX>18.301423170193544</TXTX>
+      <TXTY>42.450332400553066</TXTY>
+      <CX>100.00000011886148</CX>
+      <CY>42.5</CY>
+      <RX>1.8279579123259282E-05</RX>
+      <RY>42.439206296753355</RY>
+      <DIA>False</DIA>
+    </Entity>
+  </Entities>
+  <Layers>
+    <Layer FID="4">
+      <Name>0</Name>
+      <Plot>True</Plot>
+      <Locked>False</Locked>
+      <Color>7</Color>
+      <Visible>True</Visible>
+      <Linetype>3</Linetype>
+      <Lineweight>2</Lineweight>
+    </Layer>
+  </Layers>
+  <Linetypes>
+    <Linetype FID="1">
+      <Name>BYLAYER</Name>
+      <Description>By layer</Description>
+      <ReadOnly>True</ReadOnly>
+    </Linetype>
+    <Linetype FID="2">
+      <Name>BYBLOCK</Name>
+      <Description>By block</Description>
+      <ReadOnly>True</ReadOnly>
+    </Linetype>
+    <Linetype FID="3">
+      <Name>CONTINUOUS</Name>
+      <Description>Continuous</Description>
+      <ReadOnly>True</ReadOnly>
+    </Linetype>
+  </Linetypes>
+  <Blocks />
+  <Properties>
+    <ViewMinX>-201.42601045812569</ViewMinX>
+    <ViewMinY>-145.11305255519972</ViewMinY>
+    <ViewMaxX>492.08870193125688</ViewMaxX>
+    <ViewMaxY>181.58694744480124</ViewMaxY>
+    <PreviewImage>iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANISURBVHhe7dltbhNnAIVR9r8X1tClUcYiyHGe
+lnx56tuckY6AJ7bn/XFlYefbz+sH/I9khFUZYVVGWJURVmWEVRlhVUZYlRFWZYRVGWFVRliVEVZl
+hFUZYVVGWJURVmWEVRlhVUZYlRFWZYRVGWFVRliVEVZlhFUZYVVGWJURVmWEVRlhVUZYlRFWZYRV
+GWFVRliVEVZlhFUZYVVGWJURVmWEVRlhVUZYlRFWZYRVGWFVRliVEVZlhFUZYVVGWJURVmWEVRlh
+VUZYlRFWZYRVGWFVRliVEVZlhFUZYVVGWJURVmWEVRlhVUZYlRFWZZzy/fv3F+pxfAkZpxg0VzLu
++utHd76KjJuOMX+2ug+PLOOm2wFe/fut1/Hcj1zPzsGZMm6qd9Rfw3zR/6Re6w3edU8+Q8ZNMcLL
+sN4zzg8O+nC5d3TuKuOmmxE+G9QrB3r7TclHvzV5dgbOkHHTvw368IpRXw/6Wj32NV6cgXvLuOlP
+gz688p36s+QZuKeMm67G+ihDepRzfCEZNz3goA+PdJYvIOMmgybCpMsHtxj07Qe6j3zAe6+ns3CK
+jFOevom4dhn3T/WzQ73OvRj0qTJuunqHfvr77XjPHvPF9bm4t4ybYtAPwaDPlHGTQRNh1wMO+vL/
+Z4M+U8ZNN4O+jOn65/+ByxkM+kwZNxk0EXYZNBF23Qz6+PMyqKd2st/3NugzZdz0D4M+rt/9JM/u
+adBnyrgpBv3krddHnntc18836FNl3HQM55O9GOd7HK9VnXvIuO8DI7r+9fin/KrcoM+Ucd+vd9j3
+OEZ8qx73JnVG7iEjrMoIqzLCqoywKiOsygirMsKqjLAqI6zKCKsywqqMsCojrMoIqzLCqoywKiOs
+ygirMsKqjLAqI6zKCKsywqqMsCojrMoIqzLCqoywKiOsygirMsKqjLAqI6zKCKsywqqMsCojrMoI
+qzLCqoywKiOsygirMsKqjLAqI6zKCKsywqqMsCojrMoIqzLCqoywKiOsygirMsKqjLAqI6zKCKsy
+wqqMsCojrMoIqzLCqoywKiOsygirMsKqjLAqI6zKCKsywqqMsCojrMoIqzLCqoywKiOsygirMsKq
+jLAqI6zKCKsywqBvP/4GHzlMKYEfOQEAAAAASUVORK5CYII=</PreviewImage>
+    <InsertX>0</InsertX>
+    <InsertY>0</InsertY>
+    <VerMajor>21</VerMajor>
+    <VerMinor>1</VerMinor>
+    <VerBuild>7716</VerBuild>
+    <VerRevision>19843</VerRevision>
+    <VerIndex>2471</VerIndex>
+  </Properties>
+  <CAMData>
+    <PartDefs />
+    <PartIDs />
+    <PartInsts />
+  </CAMData>
+  <COREVariables>
+    <AngularPrecision>3</AngularPrecision>
+    <CustomBumpDist>-1</CustomBumpDist>
+    <AngularUnits>501</AngularUnits>
+    <LinearPrecision>4</LinearPrecision>
+    <LastPoint>18.301423170193544,42.450332400553066</LastPoint>
+    <LinearUnits>101</LinearUnits>
+    <UnitSystem>0</UnitSystem>
+    <CurrentLineTypeID>2</CurrentLineTypeID>
+    <CurrentLineType>1</CurrentLineType>
+    <CurrentLayer>4</CurrentLayer>
+    <CurrentColor>256</CurrentColor>
+    <CurrentLineWeight>1</CurrentLineWeight>
+    <GlobalLineTypeScale>1</GlobalLineTypeScale>
+    <CurrentLineTypeScale>1</CurrentLineTypeScale>
+    <LineWeightScale>7</LineWeightScale>
+    <MachineTemplateVisible>True</MachineTemplateVisible>
+    <CommandInsertBlockName>
+    </CommandInsertBlockName>
+    <CommandInsertFlags>7</CommandInsertFlags>
+    <CommandInsertPos>0,0</CommandInsertPos>
+    <CommandInsertAng>0</CommandInsertAng>
+    <CommandInsertScale>1,1</CommandInsertScale>
+    <Limit1>0,0</Limit1>
+    <Limit2>210,297</Limit2>
+    <GridMode>0</GridMode>
+    <GridDX>10</GridDX>
+    <LastPreset>
+    </LastPreset>
+    <GridDY>10</GridDY>
+    <DIMLineColor>140</DIMLineColor>
+    <DIMTextColor>253</DIMTextColor>
+    <DIMSupressZeroes>False</DIMSupressZeroes>
+    <DIMTextHeight>5</DIMTextHeight>
+    <DIMTextGap>0.625</DIMTextGap>
+    <DIMWitnessLineExtension>1.25</DIMWitnessLineExtension>
+    <DIMWitnessLineOffset>0.625</DIMWitnessLineOffset>
+    <DIMLayer>
+    </DIMLayer>
+    <DIMValueScaling>1</DIMValueScaling>
+    <DIMDecimalPlaces>2</DIMDecimalPlaces>
+    <DIMAngularDecimalPlaces>2</DIMAngularDecimalPlaces>
+    <DIMArrowLength>2.5</DIMArrowLength>
+    <DIMFirstDimensionSnap>12</DIMFirstDimensionSnap>
+    <DIMAdjacentDimensionSnap>10</DIMAdjacentDimensionSnap>
+    <DIMDimensionScaling>1</DIMDimensionScaling>
+  </COREVariables>
+  <CADVariables>
+    <PlotSize>-1</PlotSize>
+    <PlotPortrait>True</PlotPortrait>
+    <HatchStyleMode>1</HatchStyleMode>
+    <HatchAngle>0.78539816339744828</HatchAngle>
+    <TextHeight>1</TextHeight>
+    <NGonEdges>6</NGonEdges>
+    <CircleDefaultRadius>100</CircleDefaultRadius>
+    <SwellRadius>1</SwellRadius>
+    <ObroundRadius>1</ObroundRadius>
+    <ChamferDist1>1</ChamferDist1>
+    <ChamferDist2>1</ChamferDist2>
+    <HatchSpacing>1</HatchSpacing>
+    <DefaultOffsetDistance>10</DefaultOffsetDistance>
+    <PointStyle>3</PointStyle>
+    <PointSize>7</PointSize>
+    <FilletRadius>20</FilletRadius>
+    <CurrentFont>*ISOCP</CurrentFont>
+    <CurrentFontText>*ISOCP</CurrentFontText>
+  </CADVariables>
+  <CAMVariables />
+  <CAMToolsVariables>
+    <VectorizeTolerance>0.08</VectorizeTolerance>
+    <DivideDist>1</DivideDist>
+    <CurvefitTolerance>0.1</CurvefitTolerance>
+    <BoundaryScanTolerance>0</BoundaryScanTolerance>
+    <PolyJointWidth>1</PolyJointWidth>
+    <CleanUpTolerance>0.001</CleanUpTolerance>
+  </CAMToolsVariables>
+</Drawing>
