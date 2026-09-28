@@ -1,7 +1,6 @@
-﻿(PRINC "\nLoading IGEMS2.LSP [2026.June.26] 14:14") ; 
-
-;I did new changes step 3
-; Kolla Measuring in advance  New Version 2024-06-26
+﻿(PRINC "\nLoading IGEMS2.LSP [2026.September.25] 16:09") ; 
+ 
+; Kolla Measuring in advance  
 ; Ett sätt att sätta nollan på ovansidan även om man inte har höjdsensor.
 (SETQ debug T)
 (SETQ pp_xmod 0 pp_ymod 0) ; How much X and Y should be changed because of part should be cut with another tool than T1. Change the coordinates in the CNC file.
@@ -468,7 +467,7 @@
   )
   (SETQ $Underlay *ZStandoff*)
   ;(IF *IS-IGEMS-CNC* (SETQ *ZStandoff* 0.0)) ******************************** TEST 2023-february-27
-  (SETQ *ZStandoff* 0.0)
+  ;(SETQ *ZStandoff* 0.0)
   (SETQ $sendtoCNC *IgemsCNCSend*)
   (SETQ $pumpstart *AWJStartPumpAuto*)
   (SETQ $pumpstop *AWJStopPumpAuto*)
@@ -2073,7 +2072,7 @@
        nil)
     ((= $reason 4) ; This is a rapid generated in 3D-5X
       (DEFAXIS allpos allrot)
-      (SETQ $ab (LIST $a $b))
+      (SETQ $ab (IF $cando5x (LIST $a $b) nil))  ;JB
       (SETQ $z (DEFZ (CADDR allpos)))
       (SSIM-RAPID allpos *SpeedRapid* *SpeedAcceleration* allrot)
       (IF $attrib (SRAPID) (RAPID)))
