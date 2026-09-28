@@ -1,7 +1,5 @@
 ﻿(PRINC "\nLoading IGEMS2.LSP [2026.September.25] 16:09") ; 
- 
-;Seyf was here
-;Seyf here /w GitHub
+
 ; Kolla Measuring in advance  
 ; Ett sätt att sätta nollan på ovansidan även om man inte har höjdsensor.
 (SETQ debug T)
