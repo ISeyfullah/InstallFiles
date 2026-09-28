@@ -3,6 +3,7 @@
 ################################################################################
 
 /.vs
+.gitignore
 lsp/IGEMS2.LSP
 bin/ACCAMERA_25.7_17.tx
 bin/AForge.Imaging.NetStandard.dll
@@ -266,7 +267,6 @@ bin/txic.dll
 bin/txkernel.dll
 bin/txpdf.dll
 bin/txtools.dll
-bin/IGEMS EULA.pdf
 longtt.txt
 lsp/IGEMS2.lsp.bak
 ltfsource.txt
