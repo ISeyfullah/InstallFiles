@@ -1,0 +1,2864 @@
+﻿-30 days
+-7 days
+(C) IGEMS AB
+* <Empty>
+&Copy
+&Print
++30 days
++7 days
+0 degree
+1. Table
+180 degree
+180 degrees
+1D Nest
+2 points
+2 points and radius
+2. Tool
+270 degree
+2D part
+2D/3D
+2K (2560x1440) - High resolution displays
+3 points
+3-axis cutting
+3. Postprocessor
+3D View
+3D-5X
+3D-5X part
+3D5X Direct3D
+4. Cutting
+4K Ultra HD (3840x2160) - Ultra HD displays
+5 Axis kinematic
+5. Layout
+5x simulator
+6. Cost
+90 degree
+About
+Abrasive amount
+Abrasive cost
+Abrasive flow
+Abrasive handled manually
+Abrasive pre-load
+Abrasive quality
+Abrasive waterjet
+Abrasive5X
+Absolute
+Absolute circle center
+ABVSCircles
+Acc
+Acc dist
+Acc dist inner
+Acc Info
+Acceleration
+Acceleration and deceleration
+Accept
+Access denied
+Accuracy
+Action
+Activate password
+Active camera
+Active laser tool (kerf) diameter.
+Active shortkey
+Active tool distance
+Active tools
+Adapt to sheet
+Add
+Add comments
+Add extra movement to uncompensate
+Add files
+Add linetype
+Add machine
+Add new
+Add new and replace existing
+Add new group
+Add new quality
+Add new thickness
+Add other objects
+Add parts
+Add parts to sheet
+Add profile
+Add ruled bevel
+Add setting
+Add tab
+Add tab on small x-size
+Add tab on small y-size
+Add thickness
+Add to custom toolbar
+Add to Organizer
+Add to quick access tools
+Add to right menu
+Add uniform bevel
+Adding parts
+Additional costs
+Additional kerf
+Adjacent dimension snap
+Adjust brightness
+Adjust lead length
+Adjust lead length for vertical piercing on top bevel cuts
+Adjust speed
+Adjust standoff with tilt
+Adjust three points
+Adjustable offsets
+Advanced
+Advanced bevel
+After cutting
+After piercing
+Air start
+Algorithms
+Align
+Align axis
+Align objects
+Aligned
+All
+All corners
+All holes first
+All known files
+All machines 
+All rights reserved
+All sheets
+All toolpaths
+Allow mirror
+Allow other parts to be nested inside holes of this part.
+Allow part to be mirrored/flipped.
+Allow parts to be mirrored
+Allow rotation
+Along X
+Along Y
+Already exists
+already exists. Overwrite?
+Alternative
+Always use default
+Ampere
+Analyze
+Angle
+Angle B
+Angle definition
+Angle interpolation cicular
+Angle step
+Angle to fill
+Angle to fill and angle between
+Angles
+Angles from
+Angular decimal places
+Angular dimension
+Anonymous block
+Anonymous blocks
+Anonymous blocks removed
+Anti collision zone
+Anti grain graphics
+Any file
+API Version
+App settings
+App store
+Applied on
+Apply
+Apply and keep the parts tool distance
+Apply loops on 2D cuts
+Apply with tool distance
+Apply...
+Approach/Retract
+APPS
+Arc
+Arc center, start, end
+Arc factor
+Arc mode
+Arc start, center, angle
+Arc start, center, length
+Arc start, end, angle
+Arc start, end, direction
+Arc start, end, radius
+Arc to
+Arcfit
+Are you sure?
+Area
+Area ascending
+Area descending
+Array
+Arrow length
+Art Edge
+Aruco DX:
+Aruco DY:
+as
+As cutting
+As other object
+As placed
+As saved
+As selected
+Ascii
+asd
+Ask
+At table
+At tool
+Attach
+Attribute
+Attribute definition
+Attributes
+Autmatic lead length
+Auto
+Auto assign tools for selected toolpath
+Auto color parts
+Auto detect
+Auto nest
+Auto quantity
+Auto replace
+Auto start IGEMS Express on startup
+Auto tab
+Auto tool setup
+AutoBrightness
+Autodetect DXF/DWG
+Automatic
+Automatic lead
+Automatic piercing
+Automatic placement
+Automatic plane
+Automatic rotation index
+Automatic seed
+Automatic tool selection
+Automatically finds parts and sets the tools and distance
+AutoNest
+Autosave
+Autosave interval minutes, 0=off
+Available
+Available abrasive qualities
+Available for
+Available for thickness
+Available mixing tubes
+Available orifices
+Available RAM memory
+Average
+Average box utilization
+Average fill ratio
+Average sheet utilization
+Average speed
+Average time
+Avoid less than
+AWJ
+AWJ only
+Axial copies
+Axial tilt
+Axis
+Axis acceleration
+Back
+Backround
+Backup folder
+Backward
+bar
+Bar codes
+Bar length
+Barcode
+Bars
+Base
+Base point
+Base X
+Base Y
+Beam nest
+became closed
+Before moving
+Between water and abrasive off
+Between water and abrasive on
+Bevel
+Bevel 2D
+Bevel 3D
+Bevel and loops
+Bevel cut
+Bevel point distance
+Bevel settings
+Bezier
+Bias
+Black and white
+Blind
+Blind lead
+Block
+Blockname
+Blocks removed
+Blue
+Blur
+Bookmarks
+Bool
+Boolean
+Boolean operation
+Bot-Mid-Top
+Bot-Top-Mid
+Bottero NEST
+Bottom
+Bottom color
+Bottom left
+Bottom left corner
+Bottom right
+Bottom to top
+Bottom Z
+Bottom-Left
+Bottom-Middle
+Bottom-Right
+Boundary
+Boundary creation
+Boundary hatch
+Boundary poly
+Boundary scan
+Boundary trim
+Bounding box
+Bounding box border
+Bounding box last sheet
+Box
+Box rapids
+Box scale
+Box util
+Break
+Break toolpath
+Bridge
+Bridge count
+Bridge cut
+Bridge length
+Bridge width
+Bridges
+Brightness threshold:
+Bring to front
+Brittle material
+Browse
+Browser
+Bug report
+Bugpad
+Build time YYYY-MM-DD HH:MM:SS
+Building menu...
+Bulge
+Bump nest
+button1
+button2
+button3
+By block
+By geometry
+by Group
+By height sensor
+By layer
+by Layout
+By list order
+By M-codes
+by machine
+by Machine
+By machine
+by material
+by Material
+By measuring
+By motor angle
+by Name
+by Part
+By part
+by Part color
+by Position
+by Priority
+by Rules
+By sheet
+By tool setup
+By Z-coordinates
+CAD
+CAD.BarCode
+Calculate
+Calculated in Controller
+Calculated in IGEMS
+Calculated in IGEMS and Controller
+Calculated quantity
+Calculated value
+Calibrate camera
+Calibrated:
+Calibration plate thickness:
+CAM
+CAM tools
+Camera
+Camera calibration
+Camera DX:
+Camera DY:
+Camera DZ:
+Camera manager
+Camera snapshot
+Camera stream
+Camera:
+CameraUI
+Can't do this in trial mode
+Cancel
+Canceled
+Cannot find postprocessor
+Cannot insert file
+Catcher
+Catcher rapids
+Categories
+Category
+CCW
+Center
+Center holes
+Center X
+Center Y
+Center, start, end
+Centerline
+Centimeters
+Centripetal acceleration
+Centripital calculation
+Centroid
+Chain
+Chain cutting
+Chamfer
+Chamfer angle
+Chamfer depth
+Chamfer type
+Change
+Change all
+Change lineweight
+Change log
+Change plot color
+Character map
+chart1
+Check folders
+Check for updates
+Check part distance
+checkBox1
+Checking floating license
+Choose test file
+Circle
+Circle cut
+Circle nest
+Circle three points
+Circle two points
+Circle two points and radius
+Circular
+Circular hole
+Circular holes
+Circular movements
+Circular piercing
+Circular piercing diameter
+Circular piercing speed
+Circular piercing turns
+Circumference
+Circumscribed
+Clamp
+Clamp linear feed
+Clamp TAC
+Clampzones
+Classic PPI 
+Clean up
+Clean up drawing
+Cleanup
+Clear
+Clear floating licence file
+Clear selection
+Click for change history
+Click to assign tool. Drag to move tool. Click texts to set distance.
+Click to zoom in
+Clipboard
+Clone
+Clone cutting
+Clone part
+Close
+Close all
+Close curve
+Close without saving
+Closed
+Closest
+Closest tool spacing
+Closest view
+cm
+CNC file
+CNC-controlled
+CNC-movable tool distance
+Code128
+Collapse
+Collar
+Collar width
+Collision
+Collision detection
+Color
+Color mode
+Color selector
+Colored parts
+Colored sheets
+Column1
+Column2
+Columns
+Combine toolpath
+Command
+COMMAND
+Command active
+Command log
+Common
+Common cut
+Common cut distance
+Common cut max regarding ratio
+Common cut minimum length
+Common cut no holes
+Common cut only bi-module
+Common cut perfect alignment
+Common cut preference
+Common cut safety
+Common cut settings
+Common cutlines
+Common cuts only
+Compact table
+Company
+Compensated
+Compensation
+Complete installation
+Conditional
+Cone
+Config
+Confirm
+Conics
+Connect
+Connect to part
+Connect toolpath
+Console
+Console row count
+Constant
+Contact
+Continious
+Continue
+Continuous
+Contour
+Contour analyzer
+Contour analyzer deactivated
+Contour cut
+Contour on separated
+Contours
+Control+Click for single surface
+Control+Click for tangent propagation
+Convert
+Convert blind lead (experimental)
+Convert text
+Convert to block
+Convert to single parts in same positions
+Convex hull
+Coordinate to first tool
+Coordinate to first used tool
+Copied to clipboard
+Copies
+Copy
+Copy image path
+Copy Machine
+Copy sheets
+Copy to backup folder
+Copy to clipboard
+Copy toolpath
+CORE.Help
+Corner
+Corner cutout
+Corner distance
+Corner speed inner
+Corner speed outer
+Corner/Direction
+Cost
+Cost ascending
+Cost descending
+Cost estimate
+Cost per tool
+Cost report
+Cost/hour
+Cost/Kg
+Costs
+could not be used
+Could not find path to point
+Could not save file
+Count
+Counter
+Create
+Create block
+Create calibration
+Create cutorder
+Create DOC files
+Create group
+Create image
+Create Job
+Create new
+Create part
+Create part profile
+Create PDF
+Create PDF files
+Create report automatically
+Create sheet
+Create toolpath
+Cross
+Cross ramping quality
+Crosshair
+Crossing polygon
+Ctrl+Double click
+Current
+Current segment
+Current sheet
+Current time
+Cursor size (pixels)
+Curve
+Curve fit
+Curved text
+Curvefit
+Curves
+Curves visible
+Custom
+Custom command
+Custom distance
+Customer
+Customer:
+Customize the context menu
+Customize toolbars
+Cut
+Cut area total
+Cut off
+Cut on
+Cut order
+Cut outs
+Cut parts
+Cut parts info
+Cut type
+Cutoff
+Cutoff curve
+Cutorder
+Cutting
+Cutting cost
+Cutting equipment
+Cutting length
+Cutting parameters
+Cutting speed
+Cutting speed calculated from tool center
+Cutting speed calculated from tool periphery
+Cutting time
+Cutting time per year
+Cutting tools
+CW
+Cyan
+Cycle off
+Cycle on
+Cylinder
+Cylindrical
+Cylindrical cutoff
+Dark
+das
+Data
+Data exchange
+Data points
+Data points visible
+DataMatrix
+Date
+days
+DBID
+Dec dist
+Dec dist inner
+Dec dist outer
+Decimal places
+Decimals for angles
+Decimals for delays
+Decimals for movement
+Decimals for speed
+Decimals for speed times
+Decimeters
+Default
+Default directory
+Default origin corner for sheet placement.
+Default quality
+Default sheet color
+Default shortkey
+Default TAC off
+Default TAC on
+Default tool
+Default zero corner
+Define
+Define attributes
+Define bevel
+Define nesting area
+Define tube
+deg
+Degrees CCW
+Degrees CW
+DEL-clear all
+Delay
+Delays
+Delete
+Delete all
+Delete calibration
+Delete profile
+Delete toolpath
+Delete unmapped entities
+Delta X
+Delta Y
+Density
+Depth
+Description
+Design
+Design tube
+Diagonal
+Diameter
+Diameter dimension
+Dimension
+Dimension line color
+Dimension position
+Dimension scaling
+Dimension style
+Dimension text color
+Dimple
+Dimstyle
+Direct
+Direction
+Direction of jet
+Direction of movement
+Disable
+Disconnect
+Disconnect toolpath
+Displacement
+Display
+Display accuracy extra high
+Display accuracy high
+Display accuracy normal
+Display color
+Display color of part.
+Display options
+Display spacing
+Display thick lines
+Display tolerance
+Display uncut
+Distance
+Distance mode
+Divide
+Divide long objects
+Divide sheet
+DLL Settings
+dm
+Docked browser
+does not exist
+Don't show this message again
+Done
+Double click
+Double click to change name
+Dovetail
+Down
+Down to up
+Draft
+Dragging
+Draw
+Drawing
+Drawing file
+Drawing file used as background layout for the machine table.
+Drawing note
+Drawing settings
+Drawing units
+Drill diameter
+Drilling
+Drilling speed
+Drilling time
+Drilling tools
+Drop curve
+Dual cut
+Dump ESSI
+Dump image
+DWF
+DWG
+DX
+DXF
+DXF to Part
+DXF/DWG Space priority
+DXFToPart Rules
+DY
+Dynamic
+Dynamic lead
+Dynamic linear piercing speed
+DZ
+EAN13
+EAN8
+Edge
+Edge fix
+Edge type
+EdgeFix
+Edit
+Edit app script
+Edit attributes
+Edit calibration
+Edit connections
+Edit existing group
+Edit existing quality
+Edit file...
+Edit job
+Edit lead script
+Edit machine
+Edit material
+Edit part
+Edit profile
+Edit report script
+Edit script
+Edit sheet
+Edit speeds
+Edit tool vectors
+Edit toolpath
+Edit...
+EditExistingThickness
+Ellipse
+EMF
+Empty
+Empty sheets
+Enable
+Enable loops
+Enable proxy
+Enabled
+Encapsulated post script
+Enclosing
+Enclosing area
+Enclosing circle
+Enclosing weight
+Encoding
+End
+End angle
+End pos
+End rapid
+End rapids
+End tangent
+End with parking position
+End with start pressure
+Endpoint
+Engagement
+Enter
+Enter password
+Enter text
+Entity
+Entity count
+Equal
+Erase
+Error
+errors found
+Estimated drilling time
+Estimated productive cutting hours per year.
+Estimated total cost
+Etch
+Eval
+Events
+Every piercing
+Exact
+Exact match
+Example
+Excel
+Exclude contours
+Existing
+Existing cut order
+Existing setup
+Exists
+Exit
+Expand
+Expand all
+Expand table
+Expected size
+Experimental
+Expert user
+Explode
+Explode text
+Explode tool setup
+Export
+Export curves
+Export method
+Export STEP
+Export to Excel. Control+Click for mat-qual-thick weight export.
+Export to XML
+Exposure time:
+Express
+Extend
+Extended sensoring modes
+Extents
+External
+External only
+Extra
+Extra large (1920x1440) - Full screen display on desktops
+Extra tool diameter
+Extract solid
+Extrude
+Fast
+Fast forward
+Favorites
+Feed
+Feet
+Fence
+Field
+File
+File extension
+File name
+File not found
+File prefix
+Files
+Fill
+Fill ratio
+Filled
+Filled reports
+Filled sheets
+Filler
+Filler quantity
+Fillers
+Fillers after frontline
+Fillet
+Fillet zero
+Filter
+Find
+Find collisions
+Find command
+Find part
+Fine
+Finish
+First
+First dimension snap
+Fit to sheet
+Fix åäö
+Fix topology
+Fixed
+Fixed lead length
+Fixed length
+Fixed or normal tool distance
+Fixed speed
+Fixed TAC/LAG
+Fixed Z
+Fixed Z-axis
+Fixture
+Fixture visible
+Flag
+Flat
+Flat mode
+Flat zone radius
+Flip
+Flip kerf
+Flip windup
+Floating license activated
+Floating license checked out
+Floating license file
+Floating license timeout
+Floating text
+Flow
+Fly cut
+Flying jet ON/OFF control
+Folder location
+Folders
+Follow
+Follow to
+Font
+Font tracer
+for abrasive to arrive on cutting
+for abrasive to arrive on LP piercing
+for abrasive to arrive on marking
+Force file preview
+Force mirror
+Force mirrored part
+Force pre-piercing
+Foreground
+Format
+Formatting
+Formula
+Formula lab
+Forward
+Found
+Four points
+Free
+Free rotation
+Freeform
+From 2 points
+From 2 points and radius
+From 3 points
+From center and 1 point
+From contour
+From hole
+From other objects
+From sheet
+ft
+ft²
+g
+G.C
+Gain:
+Gap
+Gap @ #
+Gap length
+Gas
+GCCLaser
+General
+General machine speed factor
+Geometry
+Geometry optimization
+Get settings
+Glide
+Glide nest
+Global scale
+grad
+Gradians CCW
+Gradians CW
+Gradient
+Grain direction
+Grams
+Graphics
+Gray scale
+Grayshades
+Green
+Grid
+Grid accuracy
+Grid cut
+Grid points X:
+Grid points Y:
+Grid settings
+Grid size override
+Grid spacing X
+Grid spacing Y
+Grid visible
+Grip
+Grips
+Group
+Groups
+Groups qualities
+Groups thickness
+Groups thickness quality
+Groutsize
+h
+Handling
+Handling cost
+Handling time
+Has 5 Axis kinematics
+Has drilling tools
+Has parts
+Has rotation axis
+Has special marking tool
+Hatch
+HD (1920x1080) - Full HD resolution
+Height
+Height in pixels
+Height map
+Height of the cutting table.
+Heightmap
+Help
+Hexagons
+Hide toolpaths
+High
+High and low abrasive control
+High and Low pressure control
+High fac %
+High speed
+High speed radius
+Highest
+Hight map
+Hint
+History
+Hold down Control to zoom out
+Hole
+Hole detector
+Hole rotation
+Holes
+Hor-Hor
+Horizontal
+Horizontal plane
+Horse powers
+Host IP
+Hourly operating cost of the machine.
+Hours
+hp
+HPGL
+https://www.igems.se
+Hue threshold:
+I1O0
+Id
+ID
+Idle time
+If this is checked this machine is used even if the drawing is made with some other machine
+IGEMS CNC cutting angle interpolation
+IGEMS Express
+IGEMS is running in trial mode. File output is disabled.
+IGEMS Machine File .IMF
+IGEMS needs to be restarted to apply changes
+IGEMS R9
+IGEMS RAM usage
+IGES
+Ignore holes
+Ignore sheets
+ILISP Editor
+Image
+Image file not found
+Image files
+Image tracer
+Imperial
+Import
+Import as part
+Import database
+Import factors
+Import from Organizer
+Import sheet
+ImportFile
+in
+In object
+in/1000
+in²
+Inches
+Include bevel contours
+Include detailed part information
+Include toolpath
+Incompatible file version. You need a newer IGEMS to open this file.
+Increased piercing standoff
+Increment
+Incremental
+Incremental circle center
+Incremental default I,J=0
+Individual
+Infinite rotation
+Info
+Inkjet
+Inkjet marking
+Inkjet marking speed
+Inlay
+Inlay parts
+Input
+Inscribed
+Insert
+Insert (no countdown)
+Insert all parts
+Insert all unplaced parts
+Insert block
+Insert calibrated image
+Insert filename
+Insert filename?
+Insert parts
+Insert raw image
+Insert selected sheets and count down quantity
+Insert selected sheets without changing quantity
+Inserted
+Inside corner
+Inspect
+Install
+Install file
+Install kinematic file
+Install latest version?
+Install Machine
+Install machine file
+Install machine from cloud
+Install machine from ISF
+Install nightly build?
+Install postprocessor file
+Integer
+Internal
+Interpart gap
+Interpolate
+Intersect
+Intersection
+Invalid file
+Invalid license
+Invalid page setup
+Invalid plotter
+Invalid selection
+Invalid value
+Inventory
+Invert
+Invisible
+ISO folder
+Jagged grid
+Jagged grid 1/3
+Jet danger length
+Jet off delays
+Jet off/on
+Jet on delays
+Jig thickness
+Jig X length
+Jig Y length
+JOB Report
+JOBS CREATED
+Join
+Join curves
+Join parts
+Joint size
+JPEG
+Justification X
+Justification Y
+K-Factor
+kalle
+Keep original
+Kerf
+Kerf compensation
+Key
+kg
+Kilo watts
+Kilograms
+Kinematics
+kula
+kW
+l
+Label
+label1
+label12
+label13
+label14
+label17
+label2
+label21
+label22
+label3
+label37
+label4
+label5
+label6
+label7
+label8
+label9
+Lag
+LAG
+LAG (Experimental)
+Landscape
+Language
+Lantek
+Large
+Large (1280x960) - High-quality web or small print
+Large area
+Large hole
+Largest radius
+Largest segment angle
+Laser
+Laser Machine
+Laser only
+Laser printer
+Laser setup
+Last
+Last height
+Last object
+Last width
+Layer
+Layer selector
+Layers removed
+Layout mode
+Layouts
+lbs
+Lead
+Lead algorithm
+Lead DB
+Lead length
+Lead length %
+Lead position
+Lead settings
+Leader
+Leadin
+Leadin length
+Leadin speed
+Leadout
+Leadout length
+Leads
+Left
+Left Hand Rule
+Left justify
+Left on outer
+Left to right
+Legacy network mode
+Lenghten
+Length
+Length %
+Length in
+Length of the bar/gantry.
+Length out
+Lengthen
+Lens correction:
+Lens table distance
+Licence agreement
+License
+Lift height
+Lift plane
+Lift Z-axis between cuttings
+Lift Z-axis between drillings
+Lift Z-axis between markings
+Lift Z-axis between parts
+Lift Z-axis between piercings
+Light
+Limit
+Limit exceeded
+Limits
+Line
+Line to
+Line type
+Line weight
+Linear
+Linear dimension
+Linear piercing
+Linear piercing distance
+Lines
+Linetype
+Lineweight
+Linked files
+linkLabel1
+List
+Liters
+Load
+Load app
+Loading modules
+Local area
+Lock
+Lock selected sheets
+Lock sheet
+Lock sheets
+Locked
+Loft
+Longer than
+Longest object
+Longest segment
+Loop radius
+Loops
+Low
+Low fac %
+Low pressure piercing pre-load
+Low speed
+Low speed factor
+Low speed radius
+Low-e
+Lower left
+Lower right
+Lowest
+m
+m/s²
+m²
+Machinability
+Machinability/Speed factor
+Machine
+Machine and material
+Machine Cloud
+Machine cost
+Machine cost/hour
+Machine ISF
+Machine layout template
+Machine setup
+Machine speed
+Machine template
+Machine type
+Machine Type
+Machining
+Magenta
+Major axis
+Manage menu
+Manual
+Manual movable tool distance
+Manual placement
+Manual rotation
+Manual torch move
+Map shortcuts
+Mapping prefix filters
+Margin
+Mark
+Marking
+Marking length
+Marking speed
+Marking time
+Marking tools
+Master machine
+Material
+Material cost
+Material cost/area
+Material cost/weight
+Material group
+Material import
+Material mismatch
+Material quality
+Material setup
+Material thickness
+Material utilization
+Material value
+Materials used
+Max
+Max abrasive
+Max angle
+Max cutting speed
+Max distance
+Max feed:
+Max forbidden angle
+Max forbidden tilt
+Max name length
+Max number of measure points
+Max primary axis rotation
+Max pump pressure
+Max quantity
+Max rotation
+Max runtime
+Max speed
+Max speed Primary axis
+Max speed Secondary axis
+Max tilt angle
+Max tilt change
+Max tool diameter
+Max tool distance
+Max Z
+Max Z-axis movement
+Maximum allowed tool (kerf) diameter.
+Measure
+Measure points
+Measured size
+Measuring in advance
+Medium
+Medium (800x600) - Standard web display
+menuStrip1
+Mesh face selection
+Message log
+Meters
+Meters per square second
+Method
+Metric
+Micro joints
+Microjoints
+Mid-Bot-Top
+Mid-Top-Bot
+Middle-Left
+Middle-Right
+Midpoint
+Migrate
+Milli inches
+Millimeters
+Milliseconds
+min
+Min
+Min abrasive
+Min angle
+Min cutting speed
+Min distance
+Min feed:
+Min length
+Min primary axis rotation
+Min pump pressure
+Min radius
+Min rotation
+Min speed
+Min tilt angle
+Min tool distance
+Min Z
+Min Z-axis movement
+Minimal loop
+Minimize
+Minimize tilt
+Minimum hole size:
+Minor axis
+Minutes
+Mirror
+Mirror X
+Mirror X, Y
+Mirror Y
+Misc
+Missing license for
+Mixed
+Mixing tube
+mm
+mm²
+Mode
+Model
+Model visible
+Modelspace
+Modifed
+Modified
+Modify
+Modify sketch
+Modify sketch plane
+More
+Mouse
+Move
+Move down
+Move to
+Move to bottom
+Move to top
+Move up
+Moving speed
+ms
+Multi
+Multi copy
+Multi loops
+Multi offset
+Multi process
+Multi settings
+Multi sheet mode
+Multi tools
+Multi torch settings
+Multiple
+Multiple sheets
+Multiple solids
+Multiple tools
+Multiplicity
+Multiply quantity
+MySQL Settings
+N-gon
+Name
+Name already exists
+Name below sheet
+Name numeric
+Name of the postprocessor file (without extension).
+Name:
+NC reader
+Nearest
+Nest
+NEST
+Nest direction
+Nest filler parts after frontline
+Nest holes first
+Nest in holes
+Nest origin
+Nest parts
+Nest priority
+Nest priority.
+Nest report
+Nest settings
+Nested height on last sheet
+Nested length last sheet
+Nested width on last sheet
+Nesting
+Net area
+New
+New calibration
+New drawing
+New formula (experimental)
+New Job
+New laser system
+New name
+New part
+New profile
+New selection system
+New standard sheet
+New variable
+Next
+Next collision
+Next version
+NFP
+Nisse
+No
+No bevel part found
+No but ask
+No compensation
+No current drawing
+No errors found
+No filter
+No nesting
+No optimization
+No preview
+No rotation
+No sheet
+No sketch plane defined
+No speed optimization
+No speed ramping
+No tab
+No Z
+Non-uniform
+Noname
+None
+Normal
+Normal speed
+Normal to surface
+Normals
+Not allowed
+Not closed
+Not found
+Not possible
+Note
+Nothing to redo
+Nothing to undo
+Nozzle
+Nozzle diameter
+Number of copies
+Number of decimal places for angle values.
+Number of decimal places for delay values.
+Number of decimal places for position coordinates.
+Number of decimal places for speed values.
+Number of different nesting layouts
+Number of filler parts
+Number of filler parts.
+Number of items
+Number of movable Z-axis
+Number of nested parts
+Number of objects
+Number of parts
+Number of tools
+Number of torches
+Object could not be removed
+Object properties
+Object replace
+Object scale
+Object snap
+Object snap F9
+Objects
+Objects affected
+Objects could not be deleted
+Objects could not be exploded
+Objects created
+Obround
+Obstacles
+Off
+Offset
+Offset controlled by CNC-file
+Offset handled by CNC-file
+Offset handled by controller
+Offset part
+Offset X
+Offset Y
+OK
+Old auto
+Old browser
+On
+On all
+On contour
+On part
+On table
+On tool
+On top surface
+Once
+One lap
+One solid
+Only chamfer cut
+Only other objects
+Only sheets
+Op
+Opacity
+Open
+Open curve
+Open default
+Open file
+Open folder
+Open image
+Open Organizer
+Open rest sheet
+Open sheet
+Open sheets
+Operations
+Optimize by
+Optimize database
+Optimized order
+Optimizer
+Options
+Order
+Organizer
+Organizer properties
+Organizer register
+Organizer register script
+Organizer start script
+Orifice
+Orifice diameter
+Origin
+Original quantity
+Origo
+Ortho
+Ortho (F8)
+Ortho and snap
+Ortho F8
+Ortho step
+Orthographic projections
+Other
+Other 1
+Other 2
+Other 3
+Other objects
+Other parts
+Ounces
+Outer
+Output
+Output file
+Output unit
+Outside corner
+Overcut
+Overwrite Files
+Oxyfuel
+Oxyfuel only
+oz
+Page number
+Page view
+Paint
+palle
+Pan
+Paper size
+Parametric
+Parametric Dlls
+Parametric part documentation
+Parametric shapes
+ParamPartForm
+Park non used tools
+Parking position
+Parking position X
+Parking position Y
+Part
+Part area
+Part area.
+Part boxes
+Part browser
+Part distance
+Part double click settings
+Part height Y.
+Part list
+Part name
+Part Name
+Part properties
+Part quantity.
+Part rotation
+Part text
+Part text color
+Part text font
+Part tool setup
+Part weight
+Part width X.
+Partial
+Parts
+Parts too close
+Partwise
+Password
+Password (optional)
+Paste
+Path
+Pattern
+Pattern matching
+Pause
+PDF
+Perfect alignment
+Perpendicular
+Perspective
+Perspective projection
+Physical outside diameter of the cutting head.
+Pick
+Pick corners
+Pick cut order
+Pick edges
+Pick Edges
+Pick geometry
+Pick inside area
+Pick material
+Pick nest area
+Pick object
+Pick points
+Pick points...
+Pick rapid
+Pick surfaces
+Pickbox
+Piercing
+Piercing cost
+Piercing destroyed diameter
+Piercing diameter
+Piercing off
+Piercing on
+Piercing position
+Piercing time
+Piercings
+Piping
+Place cursor
+Place object
+Placement external
+Placement internal
+Planar cutoff
+Plane
+Plane normal
+Plasma
+Plasma contour
+Plasma only
+Plot
+Plot color
+Plot PDF
+Plot style
+Plotstyle
+PNG
+Pocket
+Pocketing
+Point
+Point and drill
+Point distance
+Point filter
+Point has to be inside
+Point marking delay
+Point size
+Point style
+Points
+Polar
+Polar array
+Polar copies
+Poly
+Poly joint
+Poly lead
+Polyline
+Polyline editor
+Polyline nodes before/after
+Polyline properties
+Polylines
+Popups
+Port
+Portrait
+Position
+Position dimension
+Positions
+Post report
+Post script
+Postprocessor
+Pounds
+Pounds per square inch
+Pre piercing
+Pre-piercing
+Precision
+Pref
+Prefer blind lead
+Prefer corner
+Prefer holes
+Prefer rest sheets
+Preferences
+Prefers nesting small part in holes
+Preparing
+Presets
+Press alt for polyline chamfer
+Press CTRL to invert
+Press ESC or SPACE for closest connection
+Press ESC to stop
+Press F1 for more help
+Press N to accept highlighted
+Press P or CTRL+Click to change lead plane
+Pressure
+Pressure at nozzle
+Pressure down
+Pressure handled manually
+Pressure loss
+Pressure up
+Prev
+Prev collision
+Preview
+Preview stepover
+Previous
+Previous plot
+Previous selection
+Primary axis limitations
+Print
+Print report
+Priority
+Probe direction
+Probe point
+Process
+Process settings
+Prod
+Produced
+Products
+Profile
+Profiles
+Progress
+Project
+Projected
+Projection
+Prompt
+Properties
+Proxy settings
+psi
+Pump capacity
+Pump on/off controlled from CNC-file
+Pump pressure
+Pump size
+Pump usage
+Punch
+Pure waterjet
+Purge
+Puzzle
+QRCode
+Quadrant
+Quality
+Quality between parts
+Quality external
+Quality factors
+Quality internal
+Quality other
+Quality override
+Quantity
+Quantity method
+Quantity X
+Quantity Y
+Quantity:
+Quick
+Quick bevel
+Quick filter
+Quick move
+Quick scale
+Quick select
+Quit
+R10 template
+Rack
+rad
+Radians CCW
+Radians CW
+radioButton1
+radioButton2
+radioButton3
+radioButton4
+Radius
+Radius dimension
+Radius larger than
+Radius on inside corners
+Radius on outside corners
+Radius smaller than
+Radius/Diameter
+Random
+Random seed
+Randomize
+Rapid
+Rapid after
+Rapid before
+Rapid length
+Rapid speed
+Rapid time
+Rapids
+Rapids visible
+Raster
+Raw snapshot
+Read
+Real
+Recalculate all toolpaths
+Recent files
+Recover
+Rectangle
+Rectangle bounding box
+Rectangle multi
+Rectangle nest
+Rectangle XYC
+Rectangular
+Rectangular array
+Rectangular hole
+Rectangular sheet
+Red
+Redo
+redone
+Reduce by Bleed out valve
+Reduce by extra piercing
+Reduce speed on small internals
+Ref pos
+Reference
+Reference by X
+Reference by Y
+Refresh
+Regenerate
+RegID
+Register
+Register sheet
+Register sheets
+Regular grid
+Relative
+Release for production
+Released
+Released for production
+Reload database
+Reload profile
+Reload script
+Remaining
+Remove
+Remove all
+Remove all finished parts
+Remove cutting
+Remove finished parts
+Remove from list
+Remove parts
+Remove released when produced
+Remove setting
+Removed
+Rename
+Rendered
+Renest sheet
+Repair drawing
+Repeat
+Repeat last command
+Replace
+Replace all
+Replace existing
+Report
+Report extra
+Report folder
+Report plotstyle
+Report Template
+Reports
+Rescale image
+Reset
+Reset defaults
+Reset support
+Reset values
+Restore view
+Result
+Results
+Retain
+Return when done
+Reverse
+Reverse curve
+Reverse direction of bottom curve
+Reverse rotation
+Reverse zoom
+Reversed primary axis
+Reversed secondary axis
+Revision 2 IPF
+Revisions
+Revolve
+Right
+Right on outer
+Right to left
+Right to left (special)
+Rot all
+Rotate
+Rotate CCW
+Rotate CW
+Rotate model
+Rotate plane X
+Rotate plane Y
+Rotate smooth
+Rotate with mouse wheel
+Rotated
+Rotated dimension
+Rotated Left Hand Rule
+Rotation
+Rotation axis
+Rotation during cutting
+Rotation index
+Rotation speed
+Rotation step
+Rotation step authorization.
+Rough
+Round corners
+Round corners?
+Row by row
+Rows
+rpm
+Ruled
+Ruled bevel
+Ruled Bevel
+Ruled bevel cut
+Rules
+Run
+RUN
+Run app
+Run command
+Run report scripts
+Run script
+Runtime
+Runtime seconds
+s
+sad
+Same as units
+Same folder as NC-file
+Samples
+Samples X
+Samples Y
+Sandwich material
+Saturation threshold:
+Save
+Save as
+Save as default
+Save as template
+Save as ZIP
+Save block
+Save changes?
+Save compressed files
+Save IMF
+Save locally
+Save profile
+Save settings
+Save support
+Save template
+Save view
+Saved
+Saving
+Scale
+Scaled
+Scrap
+Scrap mode
+Scrap value
+Screen
+Script
+Script editor
+ScriptEditor
+scroll
+sd
+Search
+Seconds
+Section
+Segment count
+Segment properties
+Segments before/after
+Select
+Select all
+Select arc or circle
+Select axis
+Select best sheets
+Select circular holes
+Select color
+Select contours
+Select curve
+Select curves
+Select cut order
+Select cut order or parts
+Select cut order or press enter
+Select edge
+Select entities
+Select filter
+Select filter circular hole
+Select filter tile
+Select first curve
+Select first edge
+Select first point
+Select floating licence file
+Select font
+Select image
+Select images
+Select lead
+Select lower curve
+Select macine and material
+Select mode
+Select object
+Select object or press enter
+Select objects
+Select objects to subtract from
+Select objects to subtract with
+Select part
+Select parts
+Select path
+Select plane
+Select polyline
+Select rapid
+Select regions
+Select second curve
+Select second edge
+Select sheet
+Select sheets
+Select sheets and obstacles
+Select sheets in order
+Select solids
+Select start
+Select start point
+Select surface
+Select surfaces
+Select text
+Select tiles
+Select toolbar
+Select toolpath
+Select toolpath or press enter
+Select toolpaths
+Select toolpaths and assign current tool setup
+Select toolpaths and auto assign tools 
+Select upper curve
+Select zero point
+Select...
+Selected color
+Selected TVL does not match material and/or cutting parameter
+Selection
+Self intersection
+Send to back
+Send to machine
+Sensor
+Sensoring
+Sensoring mode
+Sensoring time
+Sent to back
+Separate toolpaths
+Sequence nr
+Serial
+Service center
+Set as default
+Set default
+Set grouped parts quantity to 0
+Set lead position
+Set mat qual to Standard
+Set min distance on external unused tools
+Settings
+Setup
+Shaded
+Shading mode
+Shadow extrude
+Shape
+Shape recognition
+Shapes
+Shared folder
+Sheet
+Sheet area
+Sheet collar
+Sheet color
+Sheet database
+Sheet has already nested parts or forbidden areas
+Sheet height
+Sheet height Y
+Sheet inventory
+Sheet invetory
+Sheet multiplicity
+Sheet name
+Sheet Organizer Connection
+Sheet report
+Sheet selection
+Sheet size
+Sheet storage
+Sheet util
+Sheet utilization
+Sheet value
+Sheet value script
+Sheet width
+Sheet width X
+Sheets
+Sheets added. Press NEST again to start nesting.
+Sheets and parts
+Sheetwise
+Shift tools left
+Shift tools right
+Shift+Double click
+Shortcut
+Shortcuts
+Shorter than
+Shortest chord
+Shortest cut
+Shortest line
+Shortkeys
+Show all
+Show border
+Show collision
+Show coordinates
+Show edges
+Show geometry optimization
+Show head
+Show in simulation
+Show model
+Show name
+Show NC file on cutorder
+Show on all
+Show on open
+Show options dialog
+Show origin
+Show ruled
+Show save dialog
+Show sequence numbers
+Show sides
+Show tank
+Show text
+Show toolbar captions
+Show toolpath
+Show/Hide normals
+Side
+Sifter
+Sign maker
+SignMaker.ShadowExtrude
+Simplify
+Simulate
+Simulate 2D
+Simulate 3D
+Simulation
+Single
+Single nest
+Single time
+Single toolpath
+singleViewportLayout1
+Singularity avoidance
+Singularity limit
+Size
+Size (pixels)
+Size X
+Size Y
+Sketch
+Sketch plane
+Sketch view
+Skew
+Skip abrasive flow changes
+Skip pressure changes
+Skip pressure init
+Skip tool init
+Skip warning if file exists
+Slab tracer
+Slate extractor
+Slate generator
+Slice
+Slit
+Slots
+Slow
+Slow down %
+Slow down distance %
+Slow down in corners
+Small
+Small (400x300) - Small inline content or web views
+Small area
+Small hole
+Smallest radius
+Smooth
+Smooth connect
+Smoothing
+Snap
+Snap (F9)
+Snap from
+Snap off
+Snap to grid (Shift+F3)
+Snapshot
+Snapshot from camera
+Snapshot Z0
+Solid
+Solid clip
+Sort
+Sorting
+Sorting position
+Source
+Space
+Space inactive tools equal
+Spacing
+Spacing between in X
+Spacing between in Y
+Spacing in X
+Spacing in Y
+Special cut
+Special marking
+Special marking speed
+Specify angle
+Specify as linear axis
+Specify axis endpoint
+Specify base point
+Specify base point on object
+Specify center
+Specify connections
+Specify control point
+Specify corner
+Specify curviness
+Specify cutting edges
+Specify destination object
+Specify diameter
+Specify direction
+Specify distance
+Specify edges
+Specify end
+Specify end angle
+Specify end point
+Specify end tangent
+Specify first connection
+Specify first corner
+Specify first line
+Specify first object
+Specify first point
+Specify height
+Specify last point
+Specify lead point
+Specify leadin
+Specify leadout
+Specify leads
+Specify length
+Specify max radius
+Specify new distance
+Specify new position
+Specify next point
+Specify on-screen
+Specify one and only one sheet
+Specify opposite corner
+Specify point
+Specify probe point
+Specify radius
+Specify scale
+Specify second connection
+Specify second corner
+Specify second line
+Specify second object
+Specify second point
+Specify side
+Specify source distance
+Specify source object
+Specify start
+Specify start angle
+Specify start point
+Specify start tangent
+Specify target base point
+Specify target objects
+Specify text
+Specify text height
+Specify text height and side
+Specify third point
+Specify tolerance
+Specify width
+Specify X length
+Specify XMax YMax
+Specify XMax YMin
+Specify XMin YMax
+Specify XMin YMin
+Specify Y length
+Specify Z
+Specify zero point
+Speed
+Speed at end of cut
+Speed by edge length
+Speed by material
+Speed by thickness
+Speed interpolation by CNC-file
+Speed interpolation by machine
+Speed ramping
+Speed reduction
+Speed up
+Speeds
+Sphere
+Spiral
+Spiral marking
+SplashForm
+Spline
+Split
+Split by sheet
+Split curve
+Split parts
+Spread
+SQLITE2 -> SQLITE3
+Square feet
+Square inches
+Square meters
+Square millimeters
+Square size X:
+Square size Y:
+Stamping
+Stamping distance
+Standard
+Standard colors
+Standard sheet
+Standoff
+Standoff at max tilt
+Standoff start tilt
+Start
+Start angle
+Start corner
+Start distance
+Start inside sheet
+Start number
+Start pump automatically
+Start rapids
+Start tangent
+Start, center, angle
+Start, center, length
+Start, end, angle
+Start, end, direction
+Start, end, radius
+Start, on, end
+Stationary
+Stationary and circular piercing
+Stationary piercing
+Status
+statusStrip1
+Step
+STEP
+Stepover %
+Steps
+Stock
+Stock list
+Stock material
+Stop
+STOP
+Stop after first cut
+Stop after first part
+Stop at collision
+Stop condition
+Stop message
+Stop pump automatically
+Stop X
+Stop Y
+Storage
+Straight
+Strategy
+Stream
+Stretch
+Stretch part
+Strip nest
+Style
+Sub program
+Sub sheet
+Sub sheets
+Subject
+Subroutine
+Subscription
+Subtext height
+Subtract
+Successfully copied
+Suction
+Suggest a number as output file
+Suggest drawing name as output file
+Suggest sheet name as output file
+Summary
+Super move
+Super speed
+Support
+Support IGEMS CNC
+Supports increased piercing standoff
+Supports multi line text
+Suppress trailing zeros
+Supress trailing zeroes
+Surface
+Surfaces
+Swap G2 and G3
+Swap X ,Y then mirror X,Y
+Swap X ,Y then mirror Y
+Swap X, Y
+Sweep angle
+Swell
+Symbols
+Symmetric
+System
+System settings
+T-Automatic ISO
+T.G
+Tab width
+Table height
+Table layout
+Table visible
+Table width
+tabPage1
+tabPage2
+tabPage3
+tabPage4
+tabPage5
+tabPage6
+tabPage7
+TAC
+TAC (High speed)
+TAC (Low speed)
+TAC @ #
+TAC adjustment
+TAC Calculator
+TAC-LAG
+Tag
+Taglio
+Tangent
+Tangential
+Tank protection
+Taper control
+Technology
+Telephone
+Templates
+Temporary code
+Temporary days:
+Test
+Test connection
+Text
+Text color
+Text gap
+Text height
+Text height for sheet layout info
+Text properties
+textControl1
+textControl2
+Texture
+The file was saved in a newer version of IGEMS. Maybe it's not possible to open it.
+The following will be overwritten
+There is already a template with that name - rename cancelled
+Thickness
+This file already exists. Do you want to overwrite?
+This will delete your current database!
+This will insert all active rest sheets into the correct SHEET files for material/thickness.
+This will set the material quality to standard for all parts where quality is empty
+Three points
+Threshold
+Threshold angle
+Through
+Thumbnail (150x150) - Small previews or icon
+Tile
+Tile cut
+Tile extract
+Tile fixture
+Tile maker
+Tilt
+Tilt A
+Tilt Cutoff
+Tilt forward
+Tilt forward with min tilt angle
+Tilt left
+Tilt rapid
+Tilt right
+Tilted cutoff
+Tilted piercing
+Tilted-Hor
+Time
+Time to end
+Time to solution
+Timeout
+Tip up avoidance
+to
+To center
+to close valve
+to empty hose on cutting
+to empty hose on LP piercing
+to empty hose on marking
+to open valve
+To produce
+To scrap
+To sheet
+Today
+Toggle accuracy
+Toggle all visible
+Toggle check
+Toggle color
+Toggle connection type
+Toggle full screen
+Toggle fullscreen (F11)
+Toggle hatch type
+Toggle move/copy
+Toggle part distance
+Toggle selection system
+Toggle X justification
+Toggle Y justification
+Tolerance
+Too many tools for machine
+Too short distance for lead
+Tool
+Tool - Lower
+Tool - Stock
+Tool - Table / Plane
+Tool - Table/Plane
+Tool compensation mode used by the controller.
+Tool cost/hour
+Tool diameter
+Tool direction
+Tool distance
+Tool distance out of machine range
+Tool on left
+Tool on right
+Tool optimization
+Tool outside diameter
+Tool position
+Tool setup
+Tool setup auto
+Tool setup explode
+Tool tilt
+Toolbar
+Toolpath
+Toolpath composition
+Toolpath tool setup
+Toolpaths
+Toolpaths visible
+Tools
+TOOLS
+toolStrip1
+toolStripButton1
+toolStripButton2
+toolStripButton3
+toolStripButton4
+toolStripButton5
+toolStripButton6
+toolStripButton7
+toolStripButton8
+Top
+Top color
+Top left
+Top right
+Top to bottom
+Top Z
+Top-Bot-Mid
+Top-Left
+Top-Mid-Bot
+Top-Middle
+Top-Right
+Toplist
+Tops
+Total
+Total cost
+Total length
+Total number of items and angle between
+Total number of items and angle to fill
+Total number of sheets
+Total part area
+Total sheet area
+Total time
+Trace
+Trace image
+Track
+Track history
+Track parts
+Tracking
+Transform
+Translate
+Transparency
+Transparent
+Transparent images
+Transparent parts
+Trial
+Trial code
+Triangulation
+Trim
+Trim end
+Trim solids
+Trim to sheet
+True color
+Tube
+TUBE
+Tube design
+Tube test
+TubeCut
+TubeCut (Deprecated)
+Turn angle
+Turn off cutouts
+Turn off periodic checks
+Turn On/Off numbers
+TVL
+Two points
+Type
+U-Type
+Unavailable
+Uncompensated side
+Underlay
+Undo
+Undo steps
+undone
+Unfold
+Uniform
+Uniform bevel
+Union
+Unique parts
+Unit fix
+Unitless drawing contains
+Units
+Units: mm
+Unknown file format
+Unlock
+Unlock sheet
+Unselect
+Unsupported object type
+Unswell
+Up
+Up to down
+Update
+Update data
+Update database
+Update Job
+Update material and machine
+Update part
+Update quantity in drawing
+Update weights from material. If material has changed this will update all weights using the material density.
+Upper - Lower
+Upper - Table / Plane
+Upper - Table/Plane
+Upper left
+Upper position
+Upper right
+Use
+Use a fixed folder
+Use abrasive
+Use abrasive pre-load
+Use both sides
+Use caching of shared folder
+Use clampzones
+Use common cut
+Use common cutlines.
+Use file locking
+Use gap
+Use grid nest
+Use holes
+Use in Sim3D
+Use increased piercing standoff
+Use line numbers
+Use mixing tube
+Use multi torch
+Use MySQL
+Use only negative side
+Use only positive side
+Use OpenGL
+Use overcut
+Use points in layer MEASURE
+Use rules
+Use software RTCP
+Use text as name
+Use tool diameter
+Use vacuum assist
+Use value script
+Use VOC
+Used
+Used thickness:
+User
+User 1
+User 2
+User 3
+User 4
+User 5
+User break
+User data
+User data folder
+User defined
+User defined rotations, specify in degrees with space between. Example 10 45 90
+User fixture
+User settings
+User value
+User variables
+User1
+User2
+User3
+User4
+User5
+Username (optional)
+utf-16
+utf-32
+utf-8
+utf-8 No BOM
+Util
+V-angle
+V-block
+V-height
+Vacuum on delay
+Value
+Value scaling
+Variable
+Variable abrasive control
+Variable pressure
+Variables
+Various
+Vector
+Vectorize
+Vectorize arcs
+Vectorizing accuracy
+Vectorizing angle accuracy
+Veins matching
+Ver-Hor
+Ver-Tilted
+Version
+Version 00.00.000.0000
+Vertical
+Vertical plane
+View
+View 3D
+View all
+View code
+View in 3D
+View output file
+View saved
+View sequence
+View the End User Licence Agreement
+viewportLayout1
+Visible
+Visible columns
+VOC
+VOC/TAC
+Warning
+Waste height
+Waste width
+Water
+Water and Abrasive controlled by seperate codes
+Water only
+WaterJet marking
+Weight
+When true, the postprocessor ignores sheet boundaries.
+Width
+Width in pixels
+Width of the cutting table.
+Window
+Window polygon
+Wireframe
+With cutting pressure
+Witness line extension
+Witness line origin offset
+Working...
+Wrap
+Write
+Write block
+Wrong password
+X axis
+X Points
+X-axis
+X-fast
+X-fine
+X-Fine
+X-offset from cutting tool
+X-rough
+X-Rough
+X-size
+X-Size
+X-size x Y-size
+X-slow
+XOR
+XY-plane
+Y axis
+Y Points
+Y-axis
+Y-offset from cutting tool
+Y-size
+Y-Size
+Yellow
+Yes
+Yes but ask
+Your license has expired
+YZ-plane
+Z position
+Z-axis
+Z-axis control
+Z-axis movement
+Z-axis speed
+Z-axis zero
+Z-offset from cutting tool
+Z-position
+Z-Position
+Zero fillet
+Zero point
+Zero point visible
+Zeropoint
+Zig zag
+Zone
+Zone detection
+Zone1 height
+Zone1 width
+Zoom
+Zoom extents
+Zoom in
+Zoom object
+Zoom out
+Zoom to object
+Zoom window
+ZX-plane

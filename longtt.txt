@@ -1,0 +1,440 @@
+Allows you to configure abrasive cutting parameters for 5-axis machines in the CAM environment. Use this command when setting up complex angled cuts where precise control over tilt and abrasive flow is critical for part quality.
+Automatically identifies and classifies circular features in scanned or imported geometry within the CAD environment. This tool is useful for converting raster shapes into editable vector circles.
+Prepares cutting data specifically for Bottero machines in the CAM environment. You should use this command to generate compatible toolpaths when working within a Bottero-integrated workflow.
+Executes nesting operations tailored for Bottero systems to optimize material usage. Use this command when arranging parts on a sheet before cutting with Bottero equipment.
+Finalizes Bottero-specific processing after nesting and toolpath creation. This command ensures the correct formatting and output for Bottero CNC machines.
+Creates an angular dimension between two lines in the CAD environment. This tool is helpful when you need to annotate the exact angle between intersecting or converging elements.
+Draws a basic arc using different input methods such as center-radius or three points. Use this command when defining curved geometry in part designs.
+Draws an arc by specifying the Center, Start, and End points. This method gives you precise control over the arc's placement and curvature.
+Creates an arc using Start, Center, and Angle. Use this when the angular span of the arc is known and you want to define its curvature based on rotation from the start point.
+Draws an arc from a Start point and Center, using arc Length to define the curvature. This is ideal when the exact arc length must be maintained for design or machining reasons.
+Creates an arc by specifying Start and End points along with an included Angle. Use this method when you need to control how much the arc curves between two fixed points.
+Draws an arc from a Start to End point using a specific Direction at the end. This is useful for defining the tangency of an arc where the exit direction needs to be controlled.
+Creates an arc between two points with a specified Radius. Use this command when the distance between endpoints is fixed and the arc must maintain a defined radius.
+Copies selected objects in a grid or circular pattern in the CAD workspace. This is helpful when you need to duplicate features like holes or slots evenly across a part.
+Defines attribute tags for use within blocks in the CAD environment. You can use this to prompt for part numbers or material text a block is imported.
+Automatically assigns distinct colors to each part in the CAD environment. This helps you visually differentiate parts for better organization and identification during design or nesting.
+Combines or subtracts overlapping shapes using union, intersection, or subtraction in the CAD environment. Use this to quickly modify part geometry by merging or trimming overlapping profiles.
+Extracts enclosed contours out of existing geometry. Activate the command and pick inside the area to extract.
+Splits a selected entity, such as a line or polyline, at specified break points. Use this to segment geometry for toolpath control or cleanup.
+Creates a beveled edge between two non-parallel lines or segments. Ideal for replacing sharp corners with angled transitions in your part design.
+Draws a circle by specifying its center point and radius. This is one of the most basic but essential tools for defining round features like holes or bosses.
+Creates a circle by specifying any two points on its perimeter. Use this method when the exact center isn't known but two points on the circumference are.
+Draws a circle using two points on the circumference and a set radius. This is helpful when fitting a circle between known points while keeping the size fixed.
+Defines a circle that passes through three specific points. Use this when the circle must pass through fixed geometry points on your part.
+Used internally for development testing and experimental features. Not intended for general use; only appears in developer or debug workflows.
+Adds a diameter measurement to circular geometry in the CAD environment. Use this for technical drawings where diameter dimensions are required for manufacturing or inspection.
+Creates general linear or aligned dimensions between points. This command is your go-to for annotating lengths, distances, or widths in your CAD drawings.
+Automatically shows the position and diameter of multiple circles. Command asks for a base point and then you can select all circles.
+Opens the dimension style settings where you can define fonts, arrowheads, units, and other properties. Use this to customize how dimensions appear across your drawings.
+Measures and displays the distance between any two points. Useful for quickly verifying geometry sizes or checking clearances without placing a dimension.
+Draws an ellipse by specifying center and axis lengths. Use this for oblong or oval features in part designs that require non-circular curves.
+Creates the smallest possible circle that fully encloses a selected set of geometry. This is helpful for defining bounding circles or checking fit constraints.
+Deletes selected objects from the CAD workspace. Use this to clean up geometry or remove outdated features during editing.
+Deletes selected objects from the CAD workspace. Use this to clean up geometry or remove outdated features during editing.
+Breaks complex objects like blocks, polylines, or dimensions into their simpler components. This is useful when you need to edit individual elements within a grouped or compound object.
+Extends a line or curve to meet another boundary object. Use this when cleaning up intersections or ensuring precise connectivity between design elements.
+Creates a rounded corner (fillet) between two lines or arcs. Ideal for smoothing sharp intersections and ensuring better toolpath flow in CAM.
+Activates laser-specific CAD tools tailored for GCC laser machines. Use this command when working with laser cutting setups to apply compatible geometry preparations.
+Creates a group from selected objects, allowing you to move or edit them as a single unit. Helps maintain organization and simplifies large assemblies in the CAD environment.
+Fills a closed area with a hatch pattern or solid fill. Useful for section views or highlighting specific zones within your drawings.
+Creates a height map from grayscale images for 3D engraving or contouring. Use this when preparing textures or reliefs for CNC or waterjet applications.
+Inserts a raster image (e.g., JPEG, PNG) into the CAD workspace. Useful for referencing background images or importing scanned drawings.
+Imports geometry or drawing files into the current drawing. Use this to bring in parts, templates, or other external data for further editing or CAM processing.
+Connects two or more lines or curves into a single polyline if their endpoints are close enough. Helps prepare geometry for toolpath generation by ensuring continuity.
+Creates an annotation with an arrow pointing to an object and an associated note. Ideal for labeling features or adding comments to drawings.
+Increases or decreases the length of a line or arc without changing its direction. Use this for fine adjustments to match design specifications.
+Draws a straight line between two points in the CAD workspace. Useful for defining basic geometry during part design.
+Creates a horizontal, vertical or aligned dimension between two points. Use this to annotate lengths or distances.
+Creates a mirrored copy of selected objects across a defined axis. Useful for symmetrical part design or duplicating features on the opposite side.
+Relocates selected geometry from one position to another. Essential for arranging parts, aligning features, or adjusting layout in the CAD environment.
+Creates multiple copies of selected geometry by repeating it in defined directions or patterns. Speeds up duplication of repeating features across a part.
+Creates multiple offset copies of selected geometry at user-defined distances. Useful for designing multi-pass cuts, tool clearances, or design contours.
+Creates a regular polygon with a user-defined number of sides. Use this to design symmetrical shapes like hex nuts or mounting patterns.
+Draws an obround (elongated circle with straight sides and semicircular ends). Often used for slots in mechanical and architectural parts.
+Creates a single offset of selected geometry at a specified distance. Helps design features with clearance gaps.
+Generates a zigzag pattern that can later be used to create a toolpath for milling.
+Generates a zigzag pattern that can later be used to create a toolpath for milling.
+Creates a single point at a specified location in the CAD workspace. Use this for reference markers, alignment anchors, or zero points in part setups.
+Changes the visual style and size of points in your drawing. Useful for improving visibility or meeting drawing standards.
+Draws a continuous line composed of straight segments and arcs. This is a versatile tool for defining part outlines.
+Enables advanced editing of polylines, including segment removal, reversal, and opening/closing.
+Projects 2D geometry at a new rotation and angle around a specified base point.
+Creates a random rectangular puzzle. Specify the number of rows and columns of pieces that you want.
+Scales selected objects by clicking a base point and entering a scale factor or length. Use this for rapid size adjustments during design changes.
+Creates a dimension indicating the radius of a selected arc or circle. Use this to clearly annotate curved features for inspection or documentation.
+Draws a rectangle using two corner points. A fast and simple way to create rectangular geometry for parts.
+Creates a bounding box around selected objects. Useful for checking part dimensions or generating stock outlines.
+Creates a rectangle by specifying its X and Y dimensions and a center point. This is ideal for centering parts within a defined area.
+Rescales an inserted raster image based on reference measurements. Use this when aligning a scanned drawing to actual dimensions in the CAD workspace.
+Rotates selected objects around a specified point. Essential for repositioning features during part layout.
+Resizes selected objects. Asks for objects to scale, then a base point and a scale factor.
+Activates selection mode for choosing objects in the CAD workspace. It's your primary tool for interacting with and modifying geometry.
+Allows freehand drawing of geometry using the mouse or tablet. Great for quick concepting or tracing scanned backgrounds.
+Skews selected geometry at a specified angle. Use this to introduce intentional distortion or compensate for angular deformations.
+Connects lines or arcs with smooth, tangent transitions. Useful for improving toolpath flow and ensuring continuous movement.
+Fills selected closed geometries with a selected color.
+Creates smooth, flowing curves through defined points. Ideal for artistic features or complex contours that require gentle transitions.
+Stretches part of the geometry by moving the selected geometry while the non-selected geometry remains stationary. Useful for quick reshaping of defined areas.
+Automatically selects an object by moving the cursor near that object. Unlike the "Move" command, there is no need to select or input a base point to move the object.
+Expands a polyline outward by a specified distance. 
+Creates single-line or multi-line text annotations in the CAD workspace. Useful for labeling parts, adding instructions, or engraving.
+Trims lines or curves at intersections with other objects. A key editing tool for cleaning up overlapping or intersecting geometry.
+Reverses a previous swell operation to return the geometry to its original shape. Useful if you need to undo an offset.
+Creates a sharp corner between two lines by removing any radius or fillet. Use this when exact corner intersections are required.
+Imports selected geometry into the CAM environment as a new part. This is your starting point for applying toolpaths and processing parts for cutting.
+Applies 5-axis abrasive cutting strategies to 2D/3D parts in the CAM environment. Use this for bevel cuts or multi-axis machining where precise tilt control is needed.
+A newer version of the 5-axis abrasive module offering updated strategies or compatibility. Choose this for the latest enhancements in 5X abrasive cutting.
+Define bevels on a part in a 3D environment. Ideal for chamfered edges or weld preparations without full 3D modeling.
+Launches the IGEMS 3D environemt for 5X cutting, tube cutting or advanced toolpaths.
+Adds additional geometry to an existing CAM part without redefining the entire setup. Useful for adding marking or slitting geometry.
+Allows you to assign custom attributes to objects in CAM. These attributes can be used for custom implementations.
+Nests parts with beam-type cutting strategies, often used in laser or plasma workflows. Use this for optimized nesting when using high-speed beam cutters.
+Define bevels on a part. Ideal for chamfered edges or weld preparations without full 3D modeling.
+Add toolpaths to bevel parts.
+Supports 5-axis beveling with enhanced 2D path control. Best when using 2D profiles that require complex tilt angles for material joining.
+Legacy version of the bevel cutting tool, kept for compatibility with older projects or machines. Use only if required for backward compatibility.
+Splits a multi toolpath into single toolpaths.
+Creates a disconnected toolpath and connects multiple parts with a bridge. This kind of toolpath is ideal when cutting small parts that can fall down in the tank.
+An older method for adding bridges in CAM. Use this only if compatibility with legacy toolpath strategies is needed.
+Creates a detailed bug report from your current CAM session for support or diagnostics. Use this to capture technical issues or irregular behavior.
+Closes the currently opened support file reverting back to the users normal shared folder and settings.
+Saves the current state and relevant data into a bug report file. Use this when reporting issues to IGEMS support to ensure reproducibility.
+Calibrates the camera system for accurate alignment with the machine bed or reference points. Essential for setting up your GigE camera.
+Manages connected camera devices and settings in the CAM environment. Use this to configure or switch between multiple cameras for sheet tracing.
+Captures a single image from the connected camera and inserts it into the workspace. Useful for visual references or aligning geometry to real-world parts.
+Captures a single image from the connected camera and inserts it into the workspace. Useful for visual references or aligning geometry to real-world parts.
+Automatically centers parts inside of circular holes.
+Joins multiple toolpaths together by replacing a rapid movement with a cutting movement. Creates a toolpath with only one piercing. Often used in materials that are difficult to pierce.
+Creates toolpaths specifically optimized for cutting circular parts. All circles will be cut using only one piercing. Often for plastic and rubber materials.
+Duplicates an existing toolpath.
+Creates a duplicate of a part. Select first the good parts you want to clone, then the parts you want to replace.
+Generates shared cutting paths between adjacent parts to reduce cutting time and material waste. Best used when parts have parallel edges placed one tool diameter apart.
+Links toolpaths to an existing CAM part. Ensures toolpaths are correctly managed and grouped under the appropriate part.
+Creates a standard perimeter cut for selected geometry. This is the default method for defining part toolpaths in the CAM environment.
+Copies an existing toolpath to another part or geometry. Use this when applying identical machining strategies to multiple features.
+Calculates an estimated cutting cost based on material, cutting time, and machine parameters. Useful for quoting jobs or comparing processing options.
+Creates a new CAM part from selected CAD geometry. This is your starting point for all cutting operations in the CAM environment.
+Creates a new rectangular sheet to place parts on for nesting or cutting. Use this when starting a new job with predefined stock dimensions.
+Creates a sheet with custom dimensions. This defines the workspace and stock material for part placement.
+Is used to seperate a sheet into two parts. One part to keep in stock for future cutting and the other can be seen as scrap. Draw a line over parts to use them as a shortcut.
+Allows you to manually define or edit the order of toolpaths and zero point. Useful for optimizing machine motion or ensuring a specific cutting sequence.
+Creates bevel cuts between two profiles using a ruled surface approach. Ideal for generating smooth transitions on angled parts in 3D cutting.
+Opens the dialog to set or modify pressures, mixing tubes, orifices and other cut settings.
+Defines bevel geometry or tilt angles for 5-axis cutting. Use this when setting up weld preps or angled features in multi-axis jobs.
+Removes the link between a toolpath and its part. Use this when you need to edit the geometry without affecting the toolpath or vice versa.
+Splits a large sheet into smaller, manageable sections. Useful for machines with limited bed size.
+Displays a dockable browser panel for navigating parts. Helps manage and organize your CAM project more efficiently.
+Opens and edits the application-level script for custom automation. Use this to extend or customize CAM functionality using scripts.
+Edits the lead-in and lead-out script for controlling entry and exit paths. Useful for fine-tuning how the tool engages and exits material.
+Opens the selected CAM part for editing geometry, toolpaths, or settings. Use this for modifying existing parts without starting from scratch.
+Modifies the script used for generating job reports. Customize this to tailor output documents with company branding or job-specific data.
+Creates engraving toolpaths for selected images using light or deeper cuts. Ideal for part marking or decorative features.
+Creates engraving toolpaths for selected images using light or deeper cuts. Ideal for part marking or decorative features.
+Creates engraving toolpaths for selected images using light or deeper cuts. Ideal for part marking or decorative features.
+Exports the current job, parts, or parameters to an XML file for external use. Use this to interface with third-party systems or databases.
+Uses the currently visible geometry. Creates parts, adds toolpaths, adds a cut order and launches the "Process" dialogue.
+Searches for a specific part by name in the drawing. Helpful in large layouts where visual identification is difficult.
+Opens a lab interface for testing and applying custom formulas. Use this to create dynamic cutting logic or automate parameter adjustments.
+Performs geometry optimization on selected contours on a part. Geometry optimization is used to make sure a part can be cut with a certain kerf.
+Applies a grid-based cut strategy to selected areas. Often used for breaking scrap or trimming down stock material.
+Displays a log of changes made in the software.
+Automatically identifies holes in selected parts for drilling or toolpath assignment. Saves time when prepping parts with multiple internal features.
+Generate a hole operation. Select from drilling, cutting etc.
+Imports a predefined sheet from another project or template. Useful for standardizing material layouts or reusing commonly used stock.
+Creates inkjet marking paths for compatible machines. Use this for part labeling, batch marking, or QR code printing before or after cutting.
+Automatically extracts parts from overlapping geometry.
+Joins multiple CAM parts into a single part object. Use this when treating multiple shapes as a single machining unit.
+Locks the sheet. Updates the sheet geometry with the placed parts and geometry on the sheet.
+Import machine information from an ISF support file.
+Selects the cutting method appropriate for the configured machine (e.g., abrasive, pure water, plasma). Ensures toolpaths are generated using suitable strategies for the selected machine.
+Launches the interface to set up your cutting machine's capabilities, dimensions, and operational parameters. Use this before processing any jobs to ensure compatibility with your hardware.
+Select the machine and material  associated with the current drawing.
+Perform manual cutting. Useful for detailed control of the toolpath.
+Creates toolpaths for non-cutting marks like part labels or alignment guides. Useful for engraving text or logos before full part separation.
+Defines and edits materials used in CAM, including thickness, density, and cutting parameters. Essential for accurate feed rate and pressure settings.
+Adds small uncut sections (tabs) to keep parts attached to the sheet during cutting. Prevents parts from shifting or falling into the tank prematurely.
+Applies loops on a toolpath. Useful for improving corner quality.
+Allows you to process several parts or sheets at once. Ideal for batch jobs or processing nested layouts in a single operation.
+Creates a new part by offsetting the contour of an existing part. This is helpful for compensating kerf, adding clearance, or defining toolpaths inside/outside geometry.
+Opens a previously saved remnant sheet with leftover material. Use this to optimize material usage by continuing cuts on used sheets.
+Adds parts to an existing remnant sheet layout without deleting prior content. Useful when combining multiple jobs on leftover stock.
+Opens an existing sheet layout from your project or database. Lets you reuse previous layouts for new cutting tasks.
+Adds new parts to an existing sheet layout without overwriting it. Ideal for expanding job layouts with additional components.
+Displays a browser panel for managing all parts in your project. Use this to quickly find, sort, and organize parts during setup or nesting.
+Measures distances between parts on a sheet. Helps verify minimum spacing for cutting or material constraints.
+Shows and edits part-level metadata like name and quantity.
+Adds text to a part for labeling, engraving, or identification purposes. Helps with part sorting and quality control downstream.
+"Internal testing tool used by developers; not intended for standard users. May be used to evaluate new or experimental features."
+Enables plasma cutting features in CAM. Optimizes toolpaths, piercing, and lead-ins for plasma machines.
+Creates contour cuts tailored for plasma, accounting for kerf width and material type. Use this for precision cuts in conductive materials.
+Creates lead-in and lead-out paths using polylines. Provides more control over tool entry and exit, especially in complex contours.
+Process a cutorder. Create NC code, simulate, reports and  cost estimation.
+An additional part processing routine with potentially newer or custom behavior. May include updated lead-in strategies or cutting logic.
+Defines punching operations instead of cutting, for machines that support it. Useful for hole creation or part separation via punch tools.
+Sets the cut quality level for selected parts. Higher quality usually reduces speed but improves edge finish.
+Processes parts quickly using default settings for fast previews or prototype runs. Ideal for rapid iteration during design.
+Applies simple bevel settings rapidly to parts. Use this to define basic bevels without opening full bevel toolpath settings.
+Adds a new sheet to the sheet inventory database for tracking and reuse. Useful for managing physical stock and leftover materials.
+Reassigns all toolpaths of identical parts to a single reference part. Helps maintain consistency and reduce data duplication.
+Removes toolpaths.
+Internal or experimental tool, likely used for debugging or feature trials. Not recommended for general use.
+Creates bevel paths between two profiles using a ruled surface approach. Use this for parts requiring linear bevel transitions.
+Applies ruled bevel strategies in 3D for 5-axis machines. Suitable for advanced angled cuts requiring tilt and height control.
+Creates a uniform ruled bevel across a 3D profile using 5-axis capabilities. Ensures consistent angle and depth over complex contours.
+Executes a saved CAM application or macro. Use this to automate tasks or apply custom tools developed for your workflow.
+Opens an ISF support file.
+Runs a saved script in the CAM environment. Use this for custom automation, batch processing, or user-defined extensions.
+Opens the script editor for creating and modifying IGEMS scripting code. Ideal for developing custom tools or automating tasks.
+Integrates sheet management with Excel for dynamic layout control. Use this to drive part placement or stock usage from a spreadsheet.
+Accesses the sheet database to select or manage available stock sheets. Helps maintain inventory and choose correct sheet dimensions.
+Displays all registered sheet stock and remnant data. Useful for tracking material usage and reducing waste.
+Generates a report of the current sheet including part layout, material usage, and job summary. Often used for documentation and client communication.
+Highlights potential collisions in toolpaths based on machine constraints. Prevents tool damage and improves process safety.
+Reduces the number of nodes or segments in selected geometry. Use this to streamline shapes for cleaner cuts and faster processing.
+Runs a simulation of toolpaths in the CAM environment. Use this to preview machine behavior and check for issues before exporting code.
+Converts slab photos into vector geometry using image processing. Great for tracing irregular stone or sheet outlines for cutting.
+Creates slit-style cuts on selected geometry, often used for breaking parts or creating ventilation slots.
+Controls speed ramping on individual contours.
+Splits a part with multiple contours into individual parts. Useful for editing, organizing, or processing each contour separately.
+Stretches the geometry of a part in a specific direction. Use this when adjusting part dimensions or compensating for material shrinkage.
+Creates a smaller sheet within the main sheet for processing specific parts. Ideal for isolating areas for special processing or different settings.
+Creates multiple sub-sheets from one layout. Use this to split complex jobs into smaller tasks or group parts by processing type.
+Controls TAC and LAG for specific contours.
+Developer or internal test tool not intended for regular user workflows. May be used for validating new features or experiments.
+Creates a tilted cutoff to handle cut offs of thick materials.
+Temporary command or function, likely used for testing or debugging. Should not be used in production workflows.
+Handle multiple tools for toolpaths. Needs postprocessor support.
+Manually defines the tools used in a CAM job, including diameters, speeds, and types. Crucial for preparing accurate and safe toolpaths.
+Automatically assigns tools to parts based on predefined rules. Saves time when processing large batches with consistent tool settings.
+Removes multiple tools and assigns single tool.
+Unlocks a sheet that was previously locked. Used for sheet editing.
+Refreshes part, sheet, or job data to reflect the latest changes. Important after editing geometry or reprocessing parts.
+Aligns marble or patterned materials so that veins or designs match across parts. Critical for decorative or high-end material nesting.
+Activates a 3D viewing mode to inspect bevels, part thickness, or 5-axis toolpaths. Helps visualize complex geometry and tilt angles.
+Aligns objects or contours along a defined axis or edge. Useful for organizing parts or preparing geometry for nesting.
+Extract closed contours from overlapping geometry. Useful to extract or cleanup geometry.
+Trims toolpaths or geometry to a defined boundary. Ideal for controlling cut areas and preventing tool movement outside safe zones.
+Removes duplicate, overlapping, or stray elements in CAM geometry. Use this before nesting or toolpath generation to ensure clean results.
+Analyzes the complexity and characteristics of selected contours. Helps identify machining challenges or potential toolpath issues.
+Creates a convex boundary around selected shapes. Useful for defining stock outlines or enclosing parts for simulation.
+Adds notches or cutouts at corners of parts. Often used for sharp internal corners or for part handling features.
+Simplifies curves by fitting them to arcs and lines. Improves cut quality and reduces code complexity.
+Divides selected contours into segments. Use this to manage toolpaths or break geometry for phased processing.
+Creates dovetail-shaped cutouts or joints. Used in interlocking part designs, often for fixtures or assemblies.
+Manually fix edge geometry by replacing multiple segments by longer lines or arcs.
+Extracts solid outlines from embedded CAD data. Helps recover usable geometry for machining from 3D or compound sources.
+Replaces one geometry object with another while retaining position and settings. Useful for updating parts or testing alternate designs.
+Creates joints between polygons using predefined rules. Use this for assembling parts or simulating snap-fit designs.
+Converts raster images into vector geometry. Essential when importing logos or scanned drawings for machining.
+Automatically nests circular parts into multi-layered or grouped arrangements. Optimizes space for round pieces like washers or disks.
+Displays information about the current IGEMS version, message log and license agreement. Useful for version tracking.
+Opens the IGEMS App Store where you can download add-ons and extensions. Use this to expand the software's functionality.
+Creates a reusable block from selected CAD objects. Useful for repetitive elements that need to be reused across projects.
+Moves selected objects to the top of the drawing stack. Ensures visibility when layering objects or annotations.
+Opens a dialog for reporting software bugs. Use this to submit detailed issue descriptions to IGEMS support.
+Shows a list of recent updates, bug fixes, and new features. Helps you stay informed about software changes.
+Checks for available updates to the IGEMS software. Keeps your system current with the latest improvements and fixes.
+Closes the current document or workspace. Be sure to save your work before using this command.
+Closes all open documents in IGEMS. Use this when wrapping up your session or switching projects.
+Changes the color of selected CAD or CAM objects. Helpful for organizing parts, improving visibility, or preparing data for export.
+Copies selected objects to the clipboard. Use this with Paste to duplicate geometry across layers or projects.
+Runs internal developer commands.
+Cuts selected objects and places them on the clipboard. Ideal for moving geometry from one area or sheet to another.
+Inserts text-based notes into your drawings. Useful for adding instructions, part IDs, or revision details.
+Sets the drawing units (e.g., millimeters, inches) for the current project. Essential for ensuring correct scaling and measurement consistency.
+Exports a raster snapshot of your current layout. Useful for previews, documentation, or sharing visuals with clients.
+Legacy version of DumpImage maintained for compatibility. Use only if required by older workflows or file formats.
+Closes the IGEMS application. Make sure to save all work before exiting to avoid data loss.
+Exports the current drawing or project in a specified file format. Use this to share geometry or CAM data with external applications or clients.
+Configures the grid spacing, visibility, and snap behavior in the drawing workspace. Helps improve precision and alignment during part design.
+Shows the absolute coordinate in X and Y for the selected position. "Absolute" means the coordinate position in relation to IGEMS World Coordinate System.
+Shows detailed information about selected objects, including dimensions, layer, and properties. Ideal for inspecting and verifying drawing elements.
+Inserts blocks into the current drawing. 
+Opens the layer manager where you can create, rename, and organize layers. Helps control visibility, grouping, and processing of different geometry types.
+Displays license information and allows activation or transfer. Use this to manage your IGEMS installation and check subscription status.
+Sets or displays the drawing limits (workspace extents). Useful for defining working areas or preparing templates.
+Changes the linetype of selected objects (e.g., dashed, dotted). Helps distinguish between cut types, guides, or annotation lines.
+Legacy version of the linetype manager. Only use if required by older files or workflows.
+Adjusts the line thickness for drawing and printing. Helps improve print readability or follow drawing standards.
+Loads custom IGEMS applications or add-ons into the environment. Use this to extend software capabilities with tailored tools.
+Customizes keyboard shortcuts for commands. Use this to streamline your workflow with faster access to frequently used features.
+Creates a new drawing. Use this as the starting point for any new design or cutting job.
+Opens an existing drawing or project file. Use this to resume work or review prior jobs.
+Loads sample files included with IGEMS. Ideal for learning, demonstration, or reference.
+Moves the view across the drawing space without changing zoom. Helps you navigate large layouts easily.
+Manages your USB license.
+Pastes objects from the clipboard into the drawing. Complements Copy and Cut for moving or duplicating geometry.
+Opens the plot or print dialog for generating hard copies or PDF files. Useful for documentation, shop floor drawings, or client delivery.
+Accesses system-wide and user-specific settings for IGEMS. Use this to configure display options, behavior, and file paths.
+Removes unused definitions (layers, blocks, linetypes) from the current drawing. Helps reduce file size and clean up clutter.
+Attempts to recover a corrupted or crashed file. Useful for restoring unsaved work after unexpected interruptions.
+Reapplies the last undone action. Use this to restore geometry or commands accidentally reversed.
+"Internal or developer testing command. Not intended for regular workflows; used for debugging or feature evaluation."
+Saves the current drawing to its existing file. Remember to save frequently to prevent data loss.
+Saves the drawing under a new name. Use this to create backups or convert files for other users or applications.
+Saves the current drawing as a reusable template. Useful for maintaining consistent settings and layouts across projects.
+Selects all visible objects in the current workspace. Speeds up global operations like copying, transforming, or formatting.
+Moves selected objects behind all others in the drawing stack. Use this to improve visibility or layout layering.
+Opens the IGEMS Service Center for license management, updates, and technical support access.
+Accesses the shared folder used for team collaboration or shared resources. Useful in multi-user environments.
+Filters and selects objects based on specific properties. Helps you isolate and edit geometry matching certain criteria.
+Displays the status of system processes, settings, or operations. Use this for diagnostics or monitoring software behavior.
+Opens the template browser for starting projects from predefined setups. Ideal for standardizing job creation.
+Toggles the workspace between full-screen and windowed mode. Useful for maximizing visibility when editing or presenting.
+Reverses the last command or action. A critical safety net during design or toolpath adjustments.
+Opens the folder where user-specific data and settings are stored. Useful for backup or transferring configurations.
+Accesses your personalized IGEMS configuration. Use this to modify UI layout, file paths, and preferences.
+Saves selected objects as a new block. 
+Zooms the view in or out based on user input. Helps navigate drawings or focus on specific areas.
+Zooms to show the full extents of all geometry in the workspace. Useful for resetting the view or locating off-screen elements.
+Zooms in incrementally to magnify part of the drawing. Use this for detailed inspection or editing.
+Zooms to the selected object(s). Quickly centers your view on important geometry.
+Zooms out incrementally to show a larger area of the workspace. Helps reorient when working in dense or zoomed-in layouts.
+Zooms into a user-defined rectangular window. Allows focused inspection of specific regions.
+Opens the NC file reader for previewing and analyzing G-code or CNC output. Helps verify postprocessed code before sending to the machine.
+Launches the Cutting Lab tool for testing and comparing different cutting strategies. Useful for optimizing cut quality and process efficiency.
+Configures double-click behavior for objects or tools in IGEMS. Allows customization of interactive editing workflows.
+Creates language translation files for IGEMS interface or documentation. Use this for localization or multi-language support.
+Converts raster images (like scans or photos) into vector geometry. Ideal for tracing artwork, logos, or hand-drawn sketches into machinable outlines.
+An internal or developer utility, likely used for testing or specific customer features. Not intended for general user workflows unless directed.
+Generates output formatted for laser printing directly from IGEMS. Use this to create printed versions of parts, labels, or job layouts.
+Performs one-dimensional nesting for linear material like bars or tubes. Ideal for cutting stock where only length matters.
+Automatically nests parts onto sheets based on size and quantity. Saves material and speeds up layout generation in production runs.
+Legacy version of the automatic nesting tool. Only use this for compatibility with older projects or workflows.
+Alternate version of AutoNest with logic or interface specific to version R11. Use when working with R11-based systems or sheet data.
+Allows manual adjustment of parts in the nesting layout using bump controls. Ideal for fine-tuning part placement after auto-nesting.
+Similar to BumpNest but with smoother, glide-like movements for better control. Use this for precision manual part placement.
+Places circular parts into available space efficiently. Best suited for nesting washers, rings, or disks.
+Extract and design inlay patterns. Paint textures and nest resulting geometry.
+Specialized rectangular nesting mode.
+Specialized rectangular nesting mode.
+Specialized rectangular nesting mode.
+Restarts nesting on a previously used sheet. Helps improve nesting performed by old versions or other nesting software.
+Creates a nesting report summarizing material usage, layout efficiency, and part counts. Useful for documentation and job costing.
+Nests a single part or part type to fill the sheet. Useful for bulk cutting one design or when testing layout options.
+Nesting strategy that prioritizes problem parts first (those harder to nest). Improves efficiency by focusing on complex shapes early.
+Creates nested layouts using strip-based logic for long narrow sheets or coils. Best suited for sheet metal or roll stock.
+Creates tile-style cut layouts, often used for architectural or decorative panels. Helps evenly divide large parts into smaller, tileable pieces.
+Generates the no-fit polygon used in nesting calculations to determine part compatibility and interference. Essential for advanced nesting algorithms.
+Opens the Organizer module for managing parts and associated data. Useful for structuring large-scale CAM workflows.
+Registers parts into the Organizer database. Use this to ensure parts are tracked, searchable, and reusable.
+Creates parts using predefined parametric shapes (e.g., gears, flanges). Lets you input dimensions instead of drawing from scratch.
+Developer test module for the piping system. May include experimental features for pipe layout and cutting.
+Analyzes and fixes common geometry issues such as open loops, overlaps, and stray points. Use this to clean up imported or problematic drawings before CAM processing.
+Executes a user-defined or system command. Allows access to hidden features or batch processes via script or command string.
+Creates text that follows a curved path. Ideal for signage, labeling, or decorative engraving.
+Converts text fonts into vector outlines for cutting or engraving. Useful for custom lettering when font files aren't compatible.
+Creates tiled layouts for signs or graphics that span multiple sheets. Useful for large-scale signage projects.
+Extracts usable outlines or parts from scanned slate or stone slabs. Helps prepare irregular materials for cutting.
+Generates simulated stone or slate outlines for testing or mockup purposes. Useful for training or layout planning without real material.
+Exports cutting data in ESSI format for Tibnor machines. Use this when working with steel service centers using the ESSI standard.
+Developer or experimental tool related to tube processing. Not intended for regular use without guidance.
+Processes tube or pipe geometry for cutting. Supports operations like slotting, notching, and cutting round stock on tube-cutting machines.
+Opens the help.
+scroll
+Creates a new 3D-5X project in the CAM environment.
+Opens an existing file. 
+Loads sample 3D-5X projects for testing or learning purposes. Great for exploring workflows or demonstrating software capabilities.
+Imports external 3D geometry (STEP, IGES, etc.) into the 3D-5X workspace. Essential for preparing external models for multi-axis processing.
+Saves the current 3D-5X project under its existing name. Remember to save frequently to avoid losing setup work.
+Saves the 3D-5X project under a new name or location. Useful for creating backup versions or alternate machining strategies.
+Exports the current 3D geometry as a STEP file. Use this to share your processed models with other CAD/CAM systems.
+Manages layers within the 3D-5X environment. Helps organize geometry, toolpaths, and fixtures into logical groups.
+Opens the settings panel for customizing 3D-5X behavior and appearance. Tailor the interface to your workflow needs.
+Displays detailed properties of selected 3D-5X objects. Useful for inspecting geometry dimensions, attributes, and machining data.
+Prints the current 3D-5X workspace view. Ideal for documenting setups or creating offline references.
+Internal tool used for testing new features or verifying workflows. Not intended for production use unless instructed.
+Reverses the last action in the 3D-5X environment. Critical for safely experimenting during model setup and editing.
+Reapplies the last undone action. Use this to quickly recover a step if you undid it by mistake.
+Creates 2D sketches directly in the 3D-5X workspace. Sketches are used as the basis for extrusion, cutting paths, or projections.
+Edits active sketch plane.
+Draws straight line segments within a sketch or as reference geometry. Essential for defining simple paths and profiles.
+Creates an arc based on center, start, and end points. Useful for defining round features in sketches or trimming areas.
+Draws a circle by specifying a center point and radius. Often used for hole features, boundaries, or pocket outlines.
+Creates a rectangle using two corner points. Ideal for quickly laying out basic profiles for extrusion or trimming.
+Draws a smooth spline curve through multiple points. Useful for defining organic or freeform paths in 3D part design.
+Creates editable text objects for engraving, marking, or part labeling. Supports standard fonts and custom paths.
+Creates axis lines from cylindrical holes.
+Extends curves, lines, or edges to meet other geometry. Helpful when connecting open profiles or preparing complete paths for extrusion.
+Projects selected 2D or 3D curves onto a surface. Use this to map cutting paths onto complex shapes.
+Replaces filleted corners with sharp intersections. Useful for designs requiring exact corner conditions or precision joins.
+Trims curves or surfaces where they intersect other objects. Essential for cleaning up complex intersections before machining.
+Joins multiple 3D curves into a single continuous path. Use this to simplify toolpath creation and ensure smooth machine motion.
+Creates an offset of a planar curve.
+Creates a 3D box primitive. Useful for fixture design, stock definition, or quick setup geometry.
+Creates a 3D cylinder primitive. Often used for modeling raw stock or basic tube shapes.
+Creates a 3D cone primitive. Useful for designing tapered features or simplified fixture components.
+Creates a 3D sphere primitive. Helps when modeling rounded objects or quick prototypes.
+Creates a basic surface primitive from 2D curves. Use this for building trimming surfaces or auxiliary construction shapes.
+Creates a solid or surface by extruding a 2D sketch along a straight path. Use this to quickly generate 3D bodies from basic profiles.
+Creates a 3D solid or surface by revolving a sketch around an axis. Ideal for parts with rotational symmetry like tubes, cones, and round flanges.
+Creates a smooth transition between two or more sketches. Useful for complex organic shapes where a simple extrusion or revolve isn't enough.
+Subtracts one solid from another in the 3D-5X workspace. Use this to create holes, pockets, or remove material from parts.
+Combines two or more solids into a single object. Helpful when merging features or creating composite parts.
+Creates a new solid from the overlapping volume of selected bodies. Useful for isolating intersecting regions for detailed machining.
+Adds chamfers to the edges of a 3D solid. Use this for removing sharp edges and improving part handling or weld preparation.
+Creates rounded fillets along edges of a 3D solid. Essential for strengthening parts, improving flow around corners, or meeting design requirements.
+Moves selected 3D objects in the workspace. Use this to reposition parts, fixtures, or toolpaths relative to each other.
+Creates a copy of selected 3D geometry. Helpful when duplicating features, setups, or working on design variations.
+Deletes selected objects from the 3D-5X environment. Useful for cleaning up unwanted features or starting fresh without reloading the file.
+Rotates selected objects around a defined axis and angle. Important for aligning parts, fixtures, or adjusting model orientation.
+Scales selected geometry proportionally or non-proportionally.
+Creates a mirrored copy of selected geometry across a plane. Ideal for symmetrical part design or rapid layout duplication.
+Creates multiple copies of a part or feature arranged in a circular pattern. Use this for layouts like bolt hole patterns or turbine blades.
+Creates a matrix of parts by copying selected geometry in rows and columns. Useful for arranging multiple identical parts for machining or inspection.
+Explodes a Solid to Surfaces.
+Repairs bad edges, small gaps, or faulty faces in 3D models. 
+Measures distances, angles, and dimensions between selected elements. Use this for verifying part specifications or setup accuracy.
+Display XYZ coordinates of a point.
+Creates standard fixtures to support parts during multi-axis machining. Use this to model and verify how parts are held during processing.
+Assign a model as a custom fixture. Allows you to simulate real-world clamping setups and avoid collisions.
+Reads and visualizes NC (G-code) files in the 3D workspace. Useful for reviewing and validating toolpaths before machining.
+Designs and modifies 3D tube geometry. Essential for parts involving pipework, frames, or round stock components.
+Imports additional geometry into the current 3D-5X project. Use this when adding reference models, fixtures, or new parts mid-setup.
+Exports selected 3D-5X geometry to a STEP file. Useful for sharing work with other CAD/CAM platforms or clients.
+Projects a curve directly onto a 3D surface or solid. Use this to define cutting paths that follow complex part shapes accurately.
+Wraps a 2D sketch or curve around a cylindrical or conical surface. Useful for engraving, marking, or creating wrapped toolpaths on round parts.
+Creates a cross-sectional cut through 3D geometry. Ideal for inspection, measuring internal features, or generating profiles for machining.
+Creates multiple equally spaced slices through a 3D model. Use this for sectioning large parts, inspection planning, or layered manufacturing strategies.
+Creates a spiral toolpath over cylindrical or conical surfaces for marking or light machining. Often used for decorative features or serial markings.
+Select machine and material.
+Defines a point to probe during machining for calibration or setup verification. Helps ensure that part location and orientation are correct before cutting.
+Aligns geometry based on defined points, lines, or surfaces. Use this to correctly position the model.
+Sets the Z-height position of the model.
+Set up a tube rotation axis.
+Rotates the entire model to a specified orientation. Use this for preparing parts for optimal cutting angles or aligning to the machine coordinate system.
+Adjusts part position using three reference points for highly accurate alignment. Ideal when setting up 3D scans or aligning irregular parts.
+Automatically aligns multiple objects based on proximity or orientation rules. Speeds up setup when dealing with complex assemblies or fixtures.
+Creates toolpaths for 3D bevel cutting on parts. Essential for producing weld preparations, chamfers, and angled edges on thick materials.
+Creates simple bevel toolpaths with minimal input. Best used when you need fast, straightforward bevel cuts without detailed angle control.
+Manage curves used for generating toolpaths.
+Automatically generates toolpaths on simple flat material models. Saves time by creating efficient multi-axis paths with minimal setup.
+Creates or edits toolpaths.
+Adjusts rapid moves between toolpaths. Ensures safe, efficient motion between cuts and avoids collisions.
+Sets the desired cutting quality for toolpaths, balancing speed against finish quality. 
+Sets or adjusts the zero point (work coordinate system) for the machining setup.
+Runs a visual simulation of the complete machining process. Essential for checking toolpath logic, collision detection, and machine motion before executing cuts.
+Creates a 2D part from selected surfaces or solids.
+Creates point data from 3D geometry, often for inspection, probing, or custom toolpath generation. Useful when precision points are needed from scanned or modeled parts.
+Creates a 3D stock model for simulation and collision checking. Important for visualizing raw material and tracking remaining stock after cutting.
+Corrects surface normal directions on 3D models. Ensures toolpaths are generated on the correct side of surfaces for proper machining.
+SignMaker.ShadowExtrude
+Id
+Measure
+Line
+Move
+Copy
+Delete
+Text
+Undo
+Redo
+Generate geometry from parametric shapes.
+Shapes are Python scripts.
+Repeat a geometry along a path
+Trim overlapping solids
+An automated CAM/NEST solution for users who want the best from IGEMS CAD/CAM in just three simple steps. Optimal nesting, toolpaths, piercings and leads is all automatically handled by Express. Giving you expert results without beeing the expert.
+CAD.BarCode
+Detects circle-like objects and generates circles from the centroid of each object. Also groups circles within a specified tolerance to speed up the workflow.
+Unfold you bended sheet parts by clicking on a surface and input the K-factor.
+Install a machine from resellers online machine files.

@@ -1,0 +1,17 @@
+(SETQ pos 0)
+(DEFUN handler (object) ; The callback function defined by ACTION
+  (PRINC pos)  
+  (COND
+    ((= object add)
+      (SETQ pos (1+ pos))
+      (GP-SETQ add ALIGN pos)
+      (GP-SETQ add CAPTION (ITOA pos))
+      (GP-CLOSE dlg pos))
+    ((= object dlg)
+      (GP-CLOSE dlg nil))
+  )
+)
+(SETQ dlg (GP-DIALOG "Example 13" ACTION handler WIDTH 100 HEIGHT 100 EXPANDX T EXPANDY T))
+(SETQ add (GP-BUTTON dlg (ITOA pos) ALIGN GPC-RIGHT EXPANDX nil))
+(SETQ add2 (GP-BUTTON dlg (ITOA pos) ALIGN GPC-RIGHT EXPANDX nil))
+(WHILE (GP-SHOWMODAL dlg))

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<LEADS>
+  <LEAD>
+    <Name>MICRO-JOINT1</Name>
+    <InLength>4</InLength>
+    <InRadius>0</InRadius>
+    <InAngle>1.9198621771937625</InAngle>
+    <OutLength>4</OutLength>
+    <OutRadius>0</OutRadius>
+    <OutAngle>1.9198621771937625</OutAngle>
+    <Overcut>-2</Overcut>
+    <Piercing>2</Piercing>
+    <LinearPiercing>0</LinearPiercing>
+    <Dynamic>0</Dynamic>
+  </LEAD>
+  <LEAD>
+    <Name>MICRO-JOINT2</Name>
+    <InLength>0</InLength>
+    <InRadius>0</InRadius>
+    <InAngle>1.9198621771937625</InAngle>
+    <OutLength>0</OutLength>
+    <OutRadius>0</OutRadius>
+    <OutAngle>1.9198621771937625</OutAngle>
+    <Overcut>-2</Overcut>
+    <Piercing>0</Piercing>
+    <LinearPiercing>0</LinearPiercing>
+    <Dynamic>0</Dynamic>
+  </LEAD>
+</LEADS>

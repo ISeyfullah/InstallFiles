@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IGSReader/1.0.0": {
+        "dependencies": {
+          "Genamo": "1.0.0"
+        },
+        "runtime": {
+          "IGSReader.dll": {}
+        }
+      },
+      "Genamo/1.0.0": {
+        "runtime": {
+          "Genamo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IGSReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Genamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
